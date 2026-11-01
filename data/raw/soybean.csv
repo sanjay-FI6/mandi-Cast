@@ -1,0 +1,1826 @@
+date,market,district,state,min_price,max_price,modal_price
+2025-09-15,Dindigul Mandi,Dindigul,Tamil Nadu,4315.06,4769.28,4542.17
+2025-09-16,Dindigul Mandi,Dindigul,Tamil Nadu,4222.1,4666.54,4444.32
+2025-09-17,Dindigul Mandi,Dindigul,Tamil Nadu,4295.62,4747.8,4521.71
+2025-09-18,Dindigul Mandi,Dindigul,Tamil Nadu,4225.42,4670.2,4447.81
+2025-09-19,Dindigul Mandi,Dindigul,Tamil Nadu,4227.32,4672.3,4449.81
+2025-09-20,Dindigul Mandi,Dindigul,Tamil Nadu,4249.83,4697.19,4473.51
+2025-09-21,Dindigul Mandi,Dindigul,Tamil Nadu,4264.14,4713.0,4488.57
+2025-09-22,Dindigul Mandi,Dindigul,Tamil Nadu,4258.37,4706.61,4482.49
+2025-09-23,Dindigul Mandi,Dindigul,Tamil Nadu,4384.65,4846.19,4615.42
+2025-09-24,Dindigul Mandi,Dindigul,Tamil Nadu,4491.03,4963.77,4727.4
+2025-09-25,Dindigul Mandi,Dindigul,Tamil Nadu,4558.88,5038.76,4798.82
+2025-09-26,Dindigul Mandi,Dindigul,Tamil Nadu,4428.34,4894.48,4661.41
+2025-09-27,Dindigul Mandi,Dindigul,Tamil Nadu,4339.16,4795.92,4567.54
+2025-09-28,Dindigul Mandi,Dindigul,Tamil Nadu,4303.34,4756.32,4529.83
+2025-09-29,Dindigul Mandi,Dindigul,Tamil Nadu,4179.12,4619.02,4399.07
+2025-09-30,Dindigul Mandi,Dindigul,Tamil Nadu,4181.73,4621.91,4401.82
+2025-10-01,Dindigul Mandi,Dindigul,Tamil Nadu,4253.98,4701.76,4477.87
+2025-10-02,Dindigul Mandi,Dindigul,Tamil Nadu,4372.29,4832.53,4602.41
+2025-10-03,Dindigul Mandi,Dindigul,Tamil Nadu,4480.47,4952.09,4716.28
+2025-10-04,Dindigul Mandi,Dindigul,Tamil Nadu,4363.59,4822.91,4593.25
+2025-10-05,Dindigul Mandi,Dindigul,Tamil Nadu,4370.49,4830.55,4600.52
+2025-10-06,Dindigul Mandi,Dindigul,Tamil Nadu,4361.73,4820.87,4591.3
+2025-10-07,Dindigul Mandi,Dindigul,Tamil Nadu,4485.01,4957.11,4721.06
+2025-10-08,Dindigul Mandi,Dindigul,Tamil Nadu,4556.16,5035.76,4795.96
+2025-10-09,Dindigul Mandi,Dindigul,Tamil Nadu,4528.12,5004.76,4766.44
+2025-10-10,Dindigul Mandi,Dindigul,Tamil Nadu,4490.96,4963.7,4727.33
+2025-10-11,Dindigul Mandi,Dindigul,Tamil Nadu,4422.44,4887.96,4655.2
+2025-10-12,Dindigul Mandi,Dindigul,Tamil Nadu,4331.05,4786.95,4559.0
+2025-10-13,Dindigul Mandi,Dindigul,Tamil Nadu,4320.27,4775.03,4547.65
+2025-10-14,Dindigul Mandi,Dindigul,Tamil Nadu,4211.68,4655.02,4433.35
+2025-10-15,Dindigul Mandi,Dindigul,Tamil Nadu,4271.75,4721.41,4496.58
+2025-10-16,Dindigul Mandi,Dindigul,Tamil Nadu,4208.8,4651.84,4430.32
+2025-10-17,Dindigul Mandi,Dindigul,Tamil Nadu,4290.09,4741.67,4515.88
+2025-10-18,Dindigul Mandi,Dindigul,Tamil Nadu,4297.22,4749.56,4523.39
+2025-10-19,Dindigul Mandi,Dindigul,Tamil Nadu,4219.54,4663.7,4441.62
+2025-10-20,Dindigul Mandi,Dindigul,Tamil Nadu,4243.98,4690.72,4467.35
+2025-10-21,Dindigul Mandi,Dindigul,Tamil Nadu,4251.32,4698.82,4475.07
+2025-10-22,Dindigul Mandi,Dindigul,Tamil Nadu,4325.52,4780.84,4553.18
+2025-10-23,Dindigul Mandi,Dindigul,Tamil Nadu,4214.13,4657.73,4435.93
+2025-10-24,Dindigul Mandi,Dindigul,Tamil Nadu,4130.81,4565.63,4348.22
+2025-10-25,Dindigul Mandi,Dindigul,Tamil Nadu,4018.46,4441.46,4229.96
+2025-10-26,Dindigul Mandi,Dindigul,Tamil Nadu,3929.21,4342.81,4136.01
+2025-10-27,Dindigul Mandi,Dindigul,Tamil Nadu,3956.8,4373.3,4165.05
+2025-10-28,Dindigul Mandi,Dindigul,Tamil Nadu,4022.53,4445.95,4234.24
+2025-10-29,Dindigul Mandi,Dindigul,Tamil Nadu,4007.25,4429.07,4218.16
+2025-10-30,Dindigul Mandi,Dindigul,Tamil Nadu,4004.13,4425.61,4214.87
+2025-10-31,Dindigul Mandi,Dindigul,Tamil Nadu,3894.47,4304.41,4099.44
+2025-11-01,Dindigul Mandi,Dindigul,Tamil Nadu,3867.69,4274.81,4071.25
+2025-11-02,Dindigul Mandi,Dindigul,Tamil Nadu,3798.24,4198.06,3998.15
+2025-11-03,Dindigul Mandi,Dindigul,Tamil Nadu,3900.47,4311.05,4105.76
+2025-11-04,Dindigul Mandi,Dindigul,Tamil Nadu,3967.03,4384.61,4175.82
+2025-11-05,Dindigul Mandi,Dindigul,Tamil Nadu,3864.51,4271.31,4067.91
+2025-11-06,Dindigul Mandi,Dindigul,Tamil Nadu,3757.22,4152.72,3954.97
+2025-11-07,Dindigul Mandi,Dindigul,Tamil Nadu,3742.95,4136.95,3939.95
+2025-11-08,Dindigul Mandi,Dindigul,Tamil Nadu,3761.42,4157.36,3959.39
+2025-11-09,Dindigul Mandi,Dindigul,Tamil Nadu,3853.29,4258.9,4056.1
+2025-11-10,Dindigul Mandi,Dindigul,Tamil Nadu,3814.53,4216.07,4015.3
+2025-11-11,Dindigul Mandi,Dindigul,Tamil Nadu,3719.6,4111.14,3915.37
+2025-11-12,Dindigul Mandi,Dindigul,Tamil Nadu,3737.0,4130.36,3933.68
+2025-11-13,Dindigul Mandi,Dindigul,Tamil Nadu,3833.33,4236.83,4035.08
+2025-11-14,Dindigul Mandi,Dindigul,Tamil Nadu,3734.54,4127.64,3931.09
+2025-11-15,Dindigul Mandi,Dindigul,Tamil Nadu,3642.22,4025.62,3833.92
+2025-11-16,Dindigul Mandi,Dindigul,Tamil Nadu,3709.69,4100.19,3904.94
+2025-11-17,Dindigul Mandi,Dindigul,Tamil Nadu,3775.39,4172.81,3974.1
+2025-11-18,Dindigul Mandi,Dindigul,Tamil Nadu,3666.94,4052.94,3859.94
+2025-11-19,Dindigul Mandi,Dindigul,Tamil Nadu,3728.59,4121.07,3924.83
+2025-11-20,Dindigul Mandi,Dindigul,Tamil Nadu,3782.63,4180.81,3981.72
+2025-11-21,Dindigul Mandi,Dindigul,Tamil Nadu,3773.72,4170.96,3972.34
+2025-11-22,Dindigul Mandi,Dindigul,Tamil Nadu,3693.96,4082.8,3888.38
+2025-11-23,Dindigul Mandi,Dindigul,Tamil Nadu,3680.49,4067.91,3874.2
+2025-11-24,Dindigul Mandi,Dindigul,Tamil Nadu,3786.56,4185.14,3985.85
+2025-11-25,Dindigul Mandi,Dindigul,Tamil Nadu,3818.02,4219.92,4018.97
+2025-11-26,Dindigul Mandi,Dindigul,Tamil Nadu,3904.79,4315.83,4110.31
+2025-11-27,Dindigul Mandi,Dindigul,Tamil Nadu,3880.08,4288.5,4084.29
+2025-11-28,Dindigul Mandi,Dindigul,Tamil Nadu,3866.12,4273.08,4069.6
+2025-11-29,Dindigul Mandi,Dindigul,Tamil Nadu,3815.72,4217.38,4016.55
+2025-11-30,Dindigul Mandi,Dindigul,Tamil Nadu,3856.47,4262.41,4059.44
+2025-12-01,Dindigul Mandi,Dindigul,Tamil Nadu,3800.02,4200.02,4000.02
+2025-12-02,Dindigul Mandi,Dindigul,Tamil Nadu,3728.86,4121.38,3925.12
+2025-12-03,Dindigul Mandi,Dindigul,Tamil Nadu,3621.76,4003.0,3812.38
+2025-12-04,Dindigul Mandi,Dindigul,Tamil Nadu,3613.53,3993.91,3803.72
+2025-12-05,Dindigul Mandi,Dindigul,Tamil Nadu,3709.07,4099.49,3904.28
+2025-12-06,Dindigul Mandi,Dindigul,Tamil Nadu,3715.08,4106.14,3910.61
+2025-12-07,Dindigul Mandi,Dindigul,Tamil Nadu,3769.78,4166.6,3968.19
+2025-12-08,Dindigul Mandi,Dindigul,Tamil Nadu,3708.49,4098.85,3903.67
+2025-12-09,Dindigul Mandi,Dindigul,Tamil Nadu,3613.11,3993.43,3803.27
+2025-12-10,Dindigul Mandi,Dindigul,Tamil Nadu,3506.05,3875.11,3690.58
+2025-12-11,Dindigul Mandi,Dindigul,Tamil Nadu,3480.24,3846.58,3663.41
+2025-12-12,Dindigul Mandi,Dindigul,Tamil Nadu,3470.21,3835.49,3652.85
+2025-12-13,Dindigul Mandi,Dindigul,Tamil Nadu,3422.83,3783.13,3602.98
+2025-12-14,Dindigul Mandi,Dindigul,Tamil Nadu,3385.15,3741.49,3563.32
+2025-12-15,Dindigul Mandi,Dindigul,Tamil Nadu,3326.62,3676.8,3501.71
+2025-12-16,Dindigul Mandi,Dindigul,Tamil Nadu,3227.5,3567.24,3397.37
+2025-12-17,Dindigul Mandi,Dindigul,Tamil Nadu,3191.36,3527.3,3359.33
+2025-12-18,Dindigul Mandi,Dindigul,Tamil Nadu,3241.49,3582.69,3412.09
+2025-12-19,Dindigul Mandi,Dindigul,Tamil Nadu,3168.01,3501.49,3334.75
+2025-12-20,Dindigul Mandi,Dindigul,Tamil Nadu,3226.56,3566.2,3396.38
+2025-12-21,Dindigul Mandi,Dindigul,Tamil Nadu,3281.26,3626.66,3453.96
+2025-12-22,Dindigul Mandi,Dindigul,Tamil Nadu,3339.94,3691.52,3515.73
+2025-12-23,Dindigul Mandi,Dindigul,Tamil Nadu,3377.76,3733.32,3555.54
+2025-12-24,Dindigul Mandi,Dindigul,Tamil Nadu,3442.53,3804.91,3623.72
+2025-12-25,Dindigul Mandi,Dindigul,Tamil Nadu,3346.47,3698.73,3522.6
+2025-12-26,Dindigul Mandi,Dindigul,Tamil Nadu,3307.94,3656.14,3482.04
+2025-12-27,Dindigul Mandi,Dindigul,Tamil Nadu,3214.44,3552.8,3383.62
+2025-12-28,Dindigul Mandi,Dindigul,Tamil Nadu,3191.0,3526.9,3358.95
+2025-12-29,Dindigul Mandi,Dindigul,Tamil Nadu,3187.15,3522.63,3354.89
+2025-12-30,Dindigul Mandi,Dindigul,Tamil Nadu,3167.04,3500.42,3333.73
+2025-12-31,Dindigul Mandi,Dindigul,Tamil Nadu,3176.54,3510.92,3343.73
+2026-01-01,Dindigul Mandi,Dindigul,Tamil Nadu,3245.99,3587.67,3416.83
+2026-01-02,Dindigul Mandi,Dindigul,Tamil Nadu,3269.42,3613.58,3441.5
+2026-01-03,Dindigul Mandi,Dindigul,Tamil Nadu,3176.22,3510.56,3343.39
+2026-01-04,Dindigul Mandi,Dindigul,Tamil Nadu,3117.25,3445.39,3281.32
+2026-01-05,Dindigul Mandi,Dindigul,Tamil Nadu,3024.33,3342.69,3183.51
+2026-01-06,Dindigul Mandi,Dindigul,Tamil Nadu,3091.31,3416.71,3254.01
+2026-01-07,Dindigul Mandi,Dindigul,Tamil Nadu,3147.16,3478.44,3312.8
+2026-01-08,Dindigul Mandi,Dindigul,Tamil Nadu,3132.62,3462.36,3297.49
+2026-01-09,Dindigul Mandi,Dindigul,Tamil Nadu,3176.21,3510.55,3343.38
+2026-01-10,Dindigul Mandi,Dindigul,Tamil Nadu,3182.33,3517.31,3349.82
+2026-01-11,Dindigul Mandi,Dindigul,Tamil Nadu,3261.88,3605.24,3433.56
+2026-01-12,Dindigul Mandi,Dindigul,Tamil Nadu,3212.8,3551.0,3381.9
+2026-01-13,Dindigul Mandi,Dindigul,Tamil Nadu,3237.69,3578.49,3408.09
+2026-01-14,Dindigul Mandi,Dindigul,Tamil Nadu,3264.99,3608.67,3436.83
+2026-01-15,Dindigul Mandi,Dindigul,Tamil Nadu,3302.61,3650.25,3476.43
+2026-01-16,Dindigul Mandi,Dindigul,Tamil Nadu,3282.42,3627.94,3455.18
+2026-01-17,Dindigul Mandi,Dindigul,Tamil Nadu,3378.77,3734.43,3556.6
+2026-01-18,Dindigul Mandi,Dindigul,Tamil Nadu,3434.22,3795.72,3614.97
+2026-01-19,Dindigul Mandi,Dindigul,Tamil Nadu,3428.85,3789.79,3609.32
+2026-01-20,Dindigul Mandi,Dindigul,Tamil Nadu,3403.23,3761.47,3582.35
+2026-01-21,Dindigul Mandi,Dindigul,Tamil Nadu,3389.91,3746.75,3568.33
+2026-01-22,Dindigul Mandi,Dindigul,Tamil Nadu,3400.05,3757.95,3579.0
+2026-01-23,Dindigul Mandi,Dindigul,Tamil Nadu,3364.19,3718.31,3541.25
+2026-01-24,Dindigul Mandi,Dindigul,Tamil Nadu,3411.12,3770.18,3590.65
+2026-01-25,Dindigul Mandi,Dindigul,Tamil Nadu,3419.83,3779.81,3599.82
+2026-01-26,Dindigul Mandi,Dindigul,Tamil Nadu,3471.01,3836.38,3653.7
+2026-01-27,Dindigul Mandi,Dindigul,Tamil Nadu,3430.79,3791.93,3611.36
+2026-01-28,Dindigul Mandi,Dindigul,Tamil Nadu,3430.65,3791.77,3611.21
+2026-01-29,Dindigul Mandi,Dindigul,Tamil Nadu,3410.1,3769.06,3589.58
+2026-01-30,Dindigul Mandi,Dindigul,Tamil Nadu,3394.18,3751.46,3572.82
+2026-01-31,Dindigul Mandi,Dindigul,Tamil Nadu,3454.96,3818.64,3636.8
+2026-02-01,Dindigul Mandi,Dindigul,Tamil Nadu,3368.08,3722.62,3545.35
+2026-02-02,Dindigul Mandi,Dindigul,Tamil Nadu,3450.75,3813.99,3632.37
+2026-02-03,Dindigul Mandi,Dindigul,Tamil Nadu,3388.77,3745.49,3567.13
+2026-02-04,Dindigul Mandi,Dindigul,Tamil Nadu,3484.0,3850.74,3667.37
+2026-02-05,Dindigul Mandi,Dindigul,Tamil Nadu,3385.94,3742.36,3564.15
+2026-02-06,Dindigul Mandi,Dindigul,Tamil Nadu,3312.11,3660.75,3486.43
+2026-02-07,Dindigul Mandi,Dindigul,Tamil Nadu,3393.77,3751.01,3572.39
+2026-02-08,Dindigul Mandi,Dindigul,Tamil Nadu,3343.92,3695.92,3519.92
+2026-02-09,Dindigul Mandi,Dindigul,Tamil Nadu,3320.22,3669.72,3494.97
+2026-02-10,Dindigul Mandi,Dindigul,Tamil Nadu,3344.14,3696.16,3520.15
+2026-02-11,Dindigul Mandi,Dindigul,Tamil Nadu,3246.81,3588.57,3417.69
+2026-02-12,Dindigul Mandi,Dindigul,Tamil Nadu,3256.53,3599.33,3427.93
+2026-02-13,Dindigul Mandi,Dindigul,Tamil Nadu,3300.57,3647.99,3474.28
+2026-02-14,Dindigul Mandi,Dindigul,Tamil Nadu,3328.64,3679.02,3503.83
+2026-02-15,Dindigul Mandi,Dindigul,Tamil Nadu,3351.02,3703.76,3527.39
+2026-02-16,Dindigul Mandi,Dindigul,Tamil Nadu,3394.29,3751.59,3572.94
+2026-02-17,Dindigul Mandi,Dindigul,Tamil Nadu,3300.17,3647.55,3473.86
+2026-02-18,Dindigul Mandi,Dindigul,Tamil Nadu,3290.93,3637.35,3464.14
+2026-02-19,Dindigul Mandi,Dindigul,Tamil Nadu,3338.72,3690.16,3514.44
+2026-02-20,Dindigul Mandi,Dindigul,Tamil Nadu,3349.19,3701.73,3525.46
+2026-02-21,Dindigul Mandi,Dindigul,Tamil Nadu,3289.31,3635.55,3462.43
+2026-02-22,Dindigul Mandi,Dindigul,Tamil Nadu,3356.58,3709.9,3533.24
+2026-02-23,Dindigul Mandi,Dindigul,Tamil Nadu,3371.16,3726.02,3548.59
+2026-02-24,Dindigul Mandi,Dindigul,Tamil Nadu,3466.49,3831.39,3648.94
+2026-02-25,Dindigul Mandi,Dindigul,Tamil Nadu,3514.78,3884.76,3699.77
+2026-02-26,Dindigul Mandi,Dindigul,Tamil Nadu,3605.39,3984.91,3795.15
+2026-02-27,Dindigul Mandi,Dindigul,Tamil Nadu,3668.25,4054.39,3861.32
+2026-02-28,Dindigul Mandi,Dindigul,Tamil Nadu,3694.45,4083.35,3888.9
+2026-03-01,Dindigul Mandi,Dindigul,Tamil Nadu,3724.29,4116.33,3920.31
+2026-03-02,Dindigul Mandi,Dindigul,Tamil Nadu,3643.93,4027.51,3835.72
+2026-03-03,Dindigul Mandi,Dindigul,Tamil Nadu,3741.79,4135.67,3938.73
+2026-03-04,Dindigul Mandi,Dindigul,Tamil Nadu,3765.0,4161.32,3963.16
+2026-03-05,Dindigul Mandi,Dindigul,Tamil Nadu,3837.5,4241.44,4039.47
+2026-03-06,Dindigul Mandi,Dindigul,Tamil Nadu,3913.65,4325.61,4119.63
+2026-03-07,Dindigul Mandi,Dindigul,Tamil Nadu,3905.62,4316.74,4111.18
+2026-03-08,Dindigul Mandi,Dindigul,Tamil Nadu,3791.75,4190.89,3991.32
+2026-03-09,Dindigul Mandi,Dindigul,Tamil Nadu,3879.14,4287.48,4083.31
+2026-03-10,Dindigul Mandi,Dindigul,Tamil Nadu,3774.8,4172.14,3973.47
+2026-03-11,Dindigul Mandi,Dindigul,Tamil Nadu,3876.49,4284.55,4080.52
+2026-03-12,Dindigul Mandi,Dindigul,Tamil Nadu,3811.22,4212.4,4011.81
+2026-03-13,Dindigul Mandi,Dindigul,Tamil Nadu,3915.98,4328.18,4122.08
+2026-03-14,Dindigul Mandi,Dindigul,Tamil Nadu,4020.34,4443.54,4231.94
+2026-03-15,Dindigul Mandi,Dindigul,Tamil Nadu,4054.3,4481.06,4267.68
+2026-03-16,Dindigul Mandi,Dindigul,Tamil Nadu,4112.01,4544.85,4328.43
+2026-03-17,Dindigul Mandi,Dindigul,Tamil Nadu,4101.98,4533.76,4317.87
+2026-03-18,Dindigul Mandi,Dindigul,Tamil Nadu,4152.73,4589.85,4371.29
+2026-03-19,Dindigul Mandi,Dindigul,Tamil Nadu,4151.27,4588.25,4369.76
+2026-03-20,Dindigul Mandi,Dindigul,Tamil Nadu,4189.83,4630.87,4410.35
+2026-03-21,Dindigul Mandi,Dindigul,Tamil Nadu,4277.84,4728.14,4502.99
+2026-03-22,Dindigul Mandi,Dindigul,Tamil Nadu,4388.44,4850.38,4619.41
+2026-03-23,Dindigul Mandi,Dindigul,Tamil Nadu,4412.23,4876.67,4644.45
+2026-03-24,Dindigul Mandi,Dindigul,Tamil Nadu,4297.84,4750.24,4524.04
+2026-03-25,Dindigul Mandi,Dindigul,Tamil Nadu,4192.04,4633.3,4412.67
+2026-03-26,Dindigul Mandi,Dindigul,Tamil Nadu,4104.92,4537.02,4320.97
+2026-03-27,Dindigul Mandi,Dindigul,Tamil Nadu,4072.95,4501.69,4287.32
+2026-03-28,Dindigul Mandi,Dindigul,Tamil Nadu,4111.3,4544.06,4327.68
+2026-03-29,Dindigul Mandi,Dindigul,Tamil Nadu,4103.71,4535.69,4319.7
+2026-03-30,Dindigul Mandi,Dindigul,Tamil Nadu,4216.28,4660.1,4438.19
+2026-03-31,Dindigul Mandi,Dindigul,Tamil Nadu,4270.07,4719.55,4494.81
+2026-04-01,Dindigul Mandi,Dindigul,Tamil Nadu,4195.48,4637.12,4416.3
+2026-04-02,Dindigul Mandi,Dindigul,Tamil Nadu,4197.92,4639.8,4418.86
+2026-04-03,Dindigul Mandi,Dindigul,Tamil Nadu,4237.1,4683.12,4460.11
+2026-04-04,Dindigul Mandi,Dindigul,Tamil Nadu,4185.6,4626.19,4405.9
+2026-04-05,Dindigul Mandi,Dindigul,Tamil Nadu,4304.03,4757.09,4530.56
+2026-04-06,Dindigul Mandi,Dindigul,Tamil Nadu,4370.41,4830.45,4600.43
+2026-04-07,Dindigul Mandi,Dindigul,Tamil Nadu,4273.92,4723.8,4498.86
+2026-04-08,Dindigul Mandi,Dindigul,Tamil Nadu,4295.41,4747.55,4521.48
+2026-04-09,Dindigul Mandi,Dindigul,Tamil Nadu,4198.81,4640.79,4419.8
+2026-04-10,Dindigul Mandi,Dindigul,Tamil Nadu,4258.31,4706.55,4482.43
+2026-04-11,Dindigul Mandi,Dindigul,Tamil Nadu,4206.97,4649.81,4428.39
+2026-04-12,Dindigul Mandi,Dindigul,Tamil Nadu,4294.61,4746.67,4520.64
+2026-04-13,Dindigul Mandi,Dindigul,Tamil Nadu,4385.69,4847.35,4616.52
+2026-04-14,Dindigul Mandi,Dindigul,Tamil Nadu,4476.22,4947.4,4711.81
+2026-04-15,Dindigul Mandi,Dindigul,Tamil Nadu,4484.54,4956.6,4720.57
+2026-04-16,Dindigul Mandi,Dindigul,Tamil Nadu,4476.02,4947.18,4711.6
+2026-04-17,Dindigul Mandi,Dindigul,Tamil Nadu,4596.27,5080.09,4838.18
+2026-04-18,Dindigul Mandi,Dindigul,Tamil Nadu,4471.13,4941.77,4706.45
+2026-04-19,Dindigul Mandi,Dindigul,Tamil Nadu,4351.33,4809.37,4580.35
+2026-04-20,Dindigul Mandi,Dindigul,Tamil Nadu,4241.75,4688.25,4465.0
+2026-04-21,Dindigul Mandi,Dindigul,Tamil Nadu,4268.53,4717.85,4493.19
+2026-04-22,Dindigul Mandi,Dindigul,Tamil Nadu,4373.35,4833.71,4603.53
+2026-04-23,Dindigul Mandi,Dindigul,Tamil Nadu,4401.84,4865.2,4633.52
+2026-04-24,Dindigul Mandi,Dindigul,Tamil Nadu,4487.98,4960.4,4724.19
+2026-04-25,Dindigul Mandi,Dindigul,Tamil Nadu,4559.71,5039.67,4799.69
+2026-04-26,Dindigul Mandi,Dindigul,Tamil Nadu,4428.08,4894.2,4661.14
+2026-04-27,Dindigul Mandi,Dindigul,Tamil Nadu,4555.06,5034.54,4794.8
+2026-04-28,Dindigul Mandi,Dindigul,Tamil Nadu,4687.58,5181.0,4934.29
+2026-04-29,Dindigul Mandi,Dindigul,Tamil Nadu,4626.15,5113.11,4869.63
+2026-04-30,Dindigul Mandi,Dindigul,Tamil Nadu,4614.13,5099.83,4856.98
+2026-05-01,Dindigul Mandi,Dindigul,Tamil Nadu,4590.06,5073.22,4831.64
+2026-05-02,Dindigul Mandi,Dindigul,Tamil Nadu,4591.53,5074.85,4833.19
+2026-05-03,Dindigul Mandi,Dindigul,Tamil Nadu,4552.03,5031.19,4791.61
+2026-05-04,Dindigul Mandi,Dindigul,Tamil Nadu,4611.97,5097.45,4854.71
+2026-05-05,Dindigul Mandi,Dindigul,Tamil Nadu,4661.5,5152.18,4906.84
+2026-05-06,Dindigul Mandi,Dindigul,Tamil Nadu,4728.62,5226.38,4977.5
+2026-05-07,Dindigul Mandi,Dindigul,Tamil Nadu,4715.25,5211.59,4963.42
+2026-05-08,Dindigul Mandi,Dindigul,Tamil Nadu,4583.1,5065.54,4824.32
+2026-05-09,Dindigul Mandi,Dindigul,Tamil Nadu,4688.44,5181.96,4935.2
+2026-05-10,Dindigul Mandi,Dindigul,Tamil Nadu,4664.31,5155.29,4909.8
+2026-05-11,Dindigul Mandi,Dindigul,Tamil Nadu,4614.57,5100.31,4857.44
+2026-05-12,Dindigul Mandi,Dindigul,Tamil Nadu,4515.7,4991.04,4753.37
+2026-05-13,Dindigul Mandi,Dindigul,Tamil Nadu,4608.77,5093.91,4851.34
+2026-05-14,Dindigul Mandi,Dindigul,Tamil Nadu,4707.92,5203.5,4955.71
+2026-05-15,Dindigul Mandi,Dindigul,Tamil Nadu,4803.67,5309.31,5056.49
+2026-05-16,Dindigul Mandi,Dindigul,Tamil Nadu,4874.03,5387.09,5130.56
+2026-05-17,Dindigul Mandi,Dindigul,Tamil Nadu,4861.13,5372.83,5116.98
+2026-05-18,Dindigul Mandi,Dindigul,Tamil Nadu,4973.89,5497.45,5235.67
+2026-05-19,Dindigul Mandi,Dindigul,Tamil Nadu,5062.13,5594.99,5328.56
+2026-05-20,Dindigul Mandi,Dindigul,Tamil Nadu,4937.37,5457.09,5197.23
+2026-05-21,Dindigul Mandi,Dindigul,Tamil Nadu,4881.11,5394.91,5138.01
+2026-05-22,Dindigul Mandi,Dindigul,Tamil Nadu,4755.62,5256.22,5005.92
+2026-05-23,Dindigul Mandi,Dindigul,Tamil Nadu,4757.54,5258.34,5007.94
+2026-05-24,Dindigul Mandi,Dindigul,Tamil Nadu,4866.6,5378.88,5122.74
+2026-05-25,Dindigul Mandi,Dindigul,Tamil Nadu,4948.92,5469.86,5209.39
+2026-05-26,Dindigul Mandi,Dindigul,Tamil Nadu,4931.35,5450.44,5190.9
+2026-05-27,Dindigul Mandi,Dindigul,Tamil Nadu,5018.84,5547.14,5282.99
+2026-05-28,Dindigul Mandi,Dindigul,Tamil Nadu,4957.95,5479.83,5218.89
+2026-05-29,Dindigul Mandi,Dindigul,Tamil Nadu,5094.56,5630.84,5362.7
+2026-05-30,Dindigul Mandi,Dindigul,Tamil Nadu,5176.56,5721.46,5449.01
+2026-05-31,Dindigul Mandi,Dindigul,Tamil Nadu,5121.69,5660.81,5391.25
+2026-06-01,Dindigul Mandi,Dindigul,Tamil Nadu,5218.02,5767.28,5492.65
+2026-06-02,Dindigul Mandi,Dindigul,Tamil Nadu,5107.3,5644.92,5376.11
+2026-06-03,Dindigul Mandi,Dindigul,Tamil Nadu,5135.4,5675.96,5405.68
+2026-06-04,Dindigul Mandi,Dindigul,Tamil Nadu,5229.12,5779.56,5504.34
+2026-06-05,Dindigul Mandi,Dindigul,Tamil Nadu,5248.44,5800.9,5524.67
+2026-06-06,Dindigul Mandi,Dindigul,Tamil Nadu,5229.78,5780.28,5505.03
+2026-06-07,Dindigul Mandi,Dindigul,Tamil Nadu,5239.76,5791.32,5515.54
+2026-06-08,Dindigul Mandi,Dindigul,Tamil Nadu,5218.03,5767.29,5492.66
+2026-06-09,Dindigul Mandi,Dindigul,Tamil Nadu,5133.99,5674.41,5404.2
+2026-06-10,Dindigul Mandi,Dindigul,Tamil Nadu,5263.76,5817.84,5540.8
+2026-06-11,Dindigul Mandi,Dindigul,Tamil Nadu,5325.29,5885.85,5605.57
+2026-06-12,Dindigul Mandi,Dindigul,Tamil Nadu,5373.87,5939.55,5656.71
+2026-06-13,Dindigul Mandi,Dindigul,Tamil Nadu,5409.28,5978.68,5693.98
+2026-06-14,Dindigul Mandi,Dindigul,Tamil Nadu,5304.64,5863.02,5583.83
+2026-06-15,Dindigul Mandi,Dindigul,Tamil Nadu,5219.81,5769.27,5494.54
+2026-06-16,Dindigul Mandi,Dindigul,Tamil Nadu,5266.5,5820.86,5543.68
+2026-06-17,Dindigul Mandi,Dindigul,Tamil Nadu,5369.89,5935.15,5652.52
+2026-06-18,Dindigul Mandi,Dindigul,Tamil Nadu,5218.18,5767.46,5492.82
+2026-06-19,Dindigul Mandi,Dindigul,Tamil Nadu,5072.52,5606.46,5339.49
+2026-06-20,Dindigul Mandi,Dindigul,Tamil Nadu,5120.55,5659.55,5390.05
+2026-06-21,Dindigul Mandi,Dindigul,Tamil Nadu,5053.95,5585.95,5319.95
+2026-06-22,Dindigul Mandi,Dindigul,Tamil Nadu,4915.61,5433.05,5174.33
+2026-06-23,Dindigul Mandi,Dindigul,Tamil Nadu,4810.54,5316.92,5063.73
+2026-06-24,Dindigul Mandi,Dindigul,Tamil Nadu,4736.24,5234.8,4985.52
+2026-06-25,Dindigul Mandi,Dindigul,Tamil Nadu,4780.99,5284.25,5032.62
+2026-06-26,Dindigul Mandi,Dindigul,Tamil Nadu,4809.55,5315.81,5062.68
+2026-06-27,Dindigul Mandi,Dindigul,Tamil Nadu,4873.57,5386.57,5130.07
+2026-06-28,Dindigul Mandi,Dindigul,Tamil Nadu,4814.56,5321.36,5067.96
+2026-06-29,Dindigul Mandi,Dindigul,Tamil Nadu,4938.89,5458.77,5198.83
+2026-06-30,Dindigul Mandi,Dindigul,Tamil Nadu,5047.96,5579.32,5313.64
+2026-07-01,Dindigul Mandi,Dindigul,Tamil Nadu,5115.75,5654.25,5385.0
+2026-07-02,Dindigul Mandi,Dindigul,Tamil Nadu,5179.08,5724.24,5451.66
+2026-07-03,Dindigul Mandi,Dindigul,Tamil Nadu,5056.56,5588.82,5322.69
+2026-07-04,Dindigul Mandi,Dindigul,Tamil Nadu,5207.39,5755.53,5481.46
+2026-07-05,Dindigul Mandi,Dindigul,Tamil Nadu,5241.47,5793.21,5517.34
+2026-07-06,Dindigul Mandi,Dindigul,Tamil Nadu,5226.04,5776.14,5501.09
+2026-07-07,Dindigul Mandi,Dindigul,Tamil Nadu,5110.5,5648.44,5379.47
+2026-07-08,Dindigul Mandi,Dindigul,Tamil Nadu,4992.19,5517.69,5254.94
+2026-07-09,Dindigul Mandi,Dindigul,Tamil Nadu,4954.48,5476.0,5215.24
+2026-07-10,Dindigul Mandi,Dindigul,Tamil Nadu,4868.41,5380.87,5124.64
+2026-07-11,Dindigul Mandi,Dindigul,Tamil Nadu,4729.19,5227.01,4978.1
+2026-07-12,Dindigul Mandi,Dindigul,Tamil Nadu,4712.66,5208.73,4960.7
+2026-07-13,Dindigul Mandi,Dindigul,Tamil Nadu,4605.64,5090.44,4848.04
+2026-07-14,Dindigul Mandi,Dindigul,Tamil Nadu,4724.23,5221.51,4972.87
+2026-07-15,Dindigul Mandi,Dindigul,Tamil Nadu,4624.79,5111.61,4868.2
+2026-07-16,Dindigul Mandi,Dindigul,Tamil Nadu,4746.98,5246.66,4996.82
+2026-07-17,Dindigul Mandi,Dindigul,Tamil Nadu,4856.48,5367.68,5112.08
+2026-07-18,Dindigul Mandi,Dindigul,Tamil Nadu,4928.1,5446.84,5187.47
+2026-07-19,Dindigul Mandi,Dindigul,Tamil Nadu,4925.25,5443.69,5184.47
+2026-07-20,Dindigul Mandi,Dindigul,Tamil Nadu,4939.64,5459.6,5199.62
+2026-07-21,Dindigul Mandi,Dindigul,Tamil Nadu,4936.99,5456.67,5196.83
+2026-07-22,Dindigul Mandi,Dindigul,Tamil Nadu,4875.43,5388.63,5132.03
+2026-07-23,Dindigul Mandi,Dindigul,Tamil Nadu,4889.41,5404.09,5146.75
+2026-07-24,Dindigul Mandi,Dindigul,Tamil Nadu,4745.99,5245.57,4995.78
+2026-07-25,Dindigul Mandi,Dindigul,Tamil Nadu,4878.12,5391.6,5134.86
+2026-07-26,Dindigul Mandi,Dindigul,Tamil Nadu,5006.21,5533.17,5269.69
+2026-07-27,Dindigul Mandi,Dindigul,Tamil Nadu,4885.95,5400.27,5143.11
+2026-07-28,Dindigul Mandi,Dindigul,Tamil Nadu,4975.74,5499.5,5237.62
+2026-07-29,Dindigul Mandi,Dindigul,Tamil Nadu,5019.01,5547.33,5283.17
+2026-07-30,Dindigul Mandi,Dindigul,Tamil Nadu,4957.09,5478.89,5217.99
+2026-07-31,Dindigul Mandi,Dindigul,Tamil Nadu,5097.19,5633.73,5365.46
+2026-08-01,Dindigul Mandi,Dindigul,Tamil Nadu,5096.95,5633.47,5365.21
+2026-08-02,Dindigul Mandi,Dindigul,Tamil Nadu,5105.32,5642.72,5374.02
+2026-08-03,Dindigul Mandi,Dindigul,Tamil Nadu,5020.85,5549.37,5285.11
+2026-08-04,Dindigul Mandi,Dindigul,Tamil Nadu,5069.72,5603.38,5336.55
+2026-08-05,Dindigul Mandi,Dindigul,Tamil Nadu,5170.3,5714.54,5442.42
+2026-08-06,Dindigul Mandi,Dindigul,Tamil Nadu,5135.74,5676.34,5406.04
+2026-08-07,Dindigul Mandi,Dindigul,Tamil Nadu,5268.31,5822.87,5545.59
+2026-08-08,Dindigul Mandi,Dindigul,Tamil Nadu,5279.77,5835.53,5557.65
+2026-08-09,Dindigul Mandi,Dindigul,Tamil Nadu,5422.99,5993.83,5708.41
+2026-08-10,Dindigul Mandi,Dindigul,Tamil Nadu,5525.68,6107.34,5816.51
+2026-08-11,Dindigul Mandi,Dindigul,Tamil Nadu,5554.46,6139.14,5846.8
+2026-08-12,Dindigul Mandi,Dindigul,Tamil Nadu,5415.6,5985.66,5700.63
+2026-08-13,Dindigul Mandi,Dindigul,Tamil Nadu,5563.82,6149.48,5856.65
+2026-08-14,Dindigul Mandi,Dindigul,Tamil Nadu,5464.1,6039.26,5751.68
+2026-08-15,Dindigul Mandi,Dindigul,Tamil Nadu,5498.01,6076.75,5787.38
+2026-08-16,Dindigul Mandi,Dindigul,Tamil Nadu,5600.72,6190.28,5895.5
+2026-08-17,Dindigul Mandi,Dindigul,Tamil Nadu,5746.4,6351.28,6048.84
+2026-08-18,Dindigul Mandi,Dindigul,Tamil Nadu,5739.77,6343.95,6041.86
+2026-08-19,Dindigul Mandi,Dindigul,Tamil Nadu,5692.65,6291.87,5992.26
+2026-08-20,Dindigul Mandi,Dindigul,Tamil Nadu,5663.61,6259.78,5961.7
+2026-08-21,Dindigul Mandi,Dindigul,Tamil Nadu,5714.77,6316.33,6015.55
+2026-08-22,Dindigul Mandi,Dindigul,Tamil Nadu,5643.49,6237.55,5940.52
+2026-08-23,Dindigul Mandi,Dindigul,Tamil Nadu,5612.11,6202.85,5907.48
+2026-08-24,Dindigul Mandi,Dindigul,Tamil Nadu,5503.14,6082.42,5792.78
+2026-08-25,Dindigul Mandi,Dindigul,Tamil Nadu,5635.42,6228.62,5932.02
+2026-08-26,Dindigul Mandi,Dindigul,Tamil Nadu,5711.36,6312.56,6011.96
+2026-08-27,Dindigul Mandi,Dindigul,Tamil Nadu,5686.17,6284.71,5985.44
+2026-08-28,Dindigul Mandi,Dindigul,Tamil Nadu,5577.5,6164.6,5871.05
+2026-08-29,Dindigul Mandi,Dindigul,Tamil Nadu,5544.3,6127.92,5836.11
+2026-08-30,Dindigul Mandi,Dindigul,Tamil Nadu,5456.97,6031.39,5744.18
+2026-08-31,Dindigul Mandi,Dindigul,Tamil Nadu,5421.58,5992.28,5706.93
+2026-09-01,Dindigul Mandi,Dindigul,Tamil Nadu,5382.19,5948.73,5665.46
+2026-09-02,Dindigul Mandi,Dindigul,Tamil Nadu,5373.92,5939.6,5656.76
+2026-09-03,Dindigul Mandi,Dindigul,Tamil Nadu,5330.21,5891.29,5610.75
+2026-09-04,Dindigul Mandi,Dindigul,Tamil Nadu,5456.68,6031.06,5743.87
+2026-09-05,Dindigul Mandi,Dindigul,Tamil Nadu,5515.08,6095.62,5805.35
+2026-09-06,Dindigul Mandi,Dindigul,Tamil Nadu,5405.82,5974.86,5690.34
+2026-09-07,Dindigul Mandi,Dindigul,Tamil Nadu,5370.5,5935.82,5653.16
+2026-09-08,Dindigul Mandi,Dindigul,Tamil Nadu,5231.49,5782.17,5506.83
+2026-09-09,Dindigul Mandi,Dindigul,Tamil Nadu,5350.02,5913.18,5631.6
+2026-09-10,Dindigul Mandi,Dindigul,Tamil Nadu,5451.06,6024.86,5737.96
+2026-09-11,Dindigul Mandi,Dindigul,Tamil Nadu,5543.55,6127.09,5835.32
+2026-09-12,Dindigul Mandi,Dindigul,Tamil Nadu,5415.82,5985.9,5700.86
+2026-09-13,Dindigul Mandi,Dindigul,Tamil Nadu,5317.01,5876.69,5596.85
+2026-09-14,Dindigul Mandi,Dindigul,Tamil Nadu,5382.55,5949.13,5665.84
+2025-09-15,Koyambedu Mandi,Chennai,Tamil Nadu,4461.64,4931.28,4696.46
+2025-09-16,Koyambedu Mandi,Chennai,Tamil Nadu,4335.8,4792.2,4564.0
+2025-09-17,Koyambedu Mandi,Chennai,Tamil Nadu,4450.82,4919.32,4685.07
+2025-09-18,Koyambedu Mandi,Chennai,Tamil Nadu,4323.16,4778.23,4550.7
+2025-09-19,Koyambedu Mandi,Chennai,Tamil Nadu,4223.15,4667.69,4445.42
+2025-09-20,Koyambedu Mandi,Chennai,Tamil Nadu,4324.3,4779.48,4551.89
+2025-09-21,Koyambedu Mandi,Chennai,Tamil Nadu,4274.08,4723.98,4499.03
+2025-09-22,Koyambedu Mandi,Chennai,Tamil Nadu,4383.17,4844.55,4613.86
+2025-09-23,Koyambedu Mandi,Chennai,Tamil Nadu,4359.07,4817.93,4588.5
+2025-09-24,Koyambedu Mandi,Chennai,Tamil Nadu,4376.55,4837.24,4606.9
+2025-09-25,Koyambedu Mandi,Chennai,Tamil Nadu,4421.77,4887.21,4654.49
+2025-09-26,Koyambedu Mandi,Chennai,Tamil Nadu,4387.82,4849.7,4618.76
+2025-09-27,Koyambedu Mandi,Chennai,Tamil Nadu,4483.03,4954.93,4718.98
+2025-09-28,Koyambedu Mandi,Chennai,Tamil Nadu,4396.45,4859.23,4627.84
+2025-09-29,Koyambedu Mandi,Chennai,Tamil Nadu,4385.29,4846.89,4616.09
+2025-09-30,Koyambedu Mandi,Chennai,Tamil Nadu,4418.34,4883.42,4650.88
+2025-10-01,Koyambedu Mandi,Chennai,Tamil Nadu,4359.04,4817.88,4588.46
+2025-10-02,Koyambedu Mandi,Chennai,Tamil Nadu,4270.78,4720.34,4495.56
+2025-10-03,Koyambedu Mandi,Chennai,Tamil Nadu,4260.15,4708.59,4484.37
+2025-10-04,Koyambedu Mandi,Chennai,Tamil Nadu,4382.63,4843.95,4613.29
+2025-10-05,Koyambedu Mandi,Chennai,Tamil Nadu,4313.3,4767.34,4540.32
+2025-10-06,Koyambedu Mandi,Chennai,Tamil Nadu,4338.2,4794.86,4566.53
+2025-10-07,Koyambedu Mandi,Chennai,Tamil Nadu,4286.9,4738.16,4512.53
+2025-10-08,Koyambedu Mandi,Chennai,Tamil Nadu,4408.45,4872.49,4640.47
+2025-10-09,Koyambedu Mandi,Chennai,Tamil Nadu,4390.47,4852.63,4621.55
+2025-10-10,Koyambedu Mandi,Chennai,Tamil Nadu,4404.16,4867.76,4635.96
+2025-10-11,Koyambedu Mandi,Chennai,Tamil Nadu,4297.69,4750.07,4523.88
+2025-10-12,Koyambedu Mandi,Chennai,Tamil Nadu,4228.55,4673.66,4451.1
+2025-10-13,Koyambedu Mandi,Chennai,Tamil Nadu,4232.92,4678.5,4455.71
+2025-10-14,Koyambedu Mandi,Chennai,Tamil Nadu,4279.33,4729.79,4504.56
+2025-10-15,Koyambedu Mandi,Chennai,Tamil Nadu,4153.28,4590.46,4371.87
+2025-10-16,Koyambedu Mandi,Chennai,Tamil Nadu,4175.14,4614.62,4394.88
+2025-10-17,Koyambedu Mandi,Chennai,Tamil Nadu,4229.82,4675.06,4452.44
+2025-10-18,Koyambedu Mandi,Chennai,Tamil Nadu,4258.18,4706.4,4482.29
+2025-10-19,Koyambedu Mandi,Chennai,Tamil Nadu,4184.03,4624.45,4404.24
+2025-10-20,Koyambedu Mandi,Chennai,Tamil Nadu,4286.88,4738.12,4512.5
+2025-10-21,Koyambedu Mandi,Chennai,Tamil Nadu,4163.09,4601.31,4382.2
+2025-10-22,Koyambedu Mandi,Chennai,Tamil Nadu,4190.88,4632.02,4411.45
+2025-10-23,Koyambedu Mandi,Chennai,Tamil Nadu,4098.54,4529.96,4314.25
+2025-10-24,Koyambedu Mandi,Chennai,Tamil Nadu,4200.8,4642.98,4421.89
+2025-10-25,Koyambedu Mandi,Chennai,Tamil Nadu,4303.73,4756.75,4530.24
+2025-10-26,Koyambedu Mandi,Chennai,Tamil Nadu,4335.31,4791.65,4563.48
+2025-10-27,Koyambedu Mandi,Chennai,Tamil Nadu,4262.64,4711.34,4486.99
+2025-10-28,Koyambedu Mandi,Chennai,Tamil Nadu,4385.25,4846.85,4616.05
+2025-10-29,Koyambedu Mandi,Chennai,Tamil Nadu,4486.5,4958.76,4722.63
+2025-10-30,Koyambedu Mandi,Chennai,Tamil Nadu,4503.35,4977.39,4740.37
+2025-10-31,Koyambedu Mandi,Chennai,Tamil Nadu,4405.99,4869.77,4637.88
+2025-11-01,Koyambedu Mandi,Chennai,Tamil Nadu,4517.58,4993.12,4755.35
+2025-11-02,Koyambedu Mandi,Chennai,Tamil Nadu,4468.85,4939.25,4704.05
+2025-11-03,Koyambedu Mandi,Chennai,Tamil Nadu,4489.03,4961.57,4725.3
+2025-11-04,Koyambedu Mandi,Chennai,Tamil Nadu,4533.8,5011.04,4772.42
+2025-11-05,Koyambedu Mandi,Chennai,Tamil Nadu,4486.94,4959.26,4723.1
+2025-11-06,Koyambedu Mandi,Chennai,Tamil Nadu,4381.61,4842.83,4612.22
+2025-11-07,Koyambedu Mandi,Chennai,Tamil Nadu,4484.96,4957.06,4721.01
+2025-11-08,Koyambedu Mandi,Chennai,Tamil Nadu,4505.55,4979.81,4742.68
+2025-11-09,Koyambedu Mandi,Chennai,Tamil Nadu,4504.03,4978.13,4741.08
+2025-11-10,Koyambedu Mandi,Chennai,Tamil Nadu,4622.3,5108.86,4865.58
+2025-11-11,Koyambedu Mandi,Chennai,Tamil Nadu,4719.58,5216.38,4967.98
+2025-11-12,Koyambedu Mandi,Chennai,Tamil Nadu,4648.38,5137.68,4893.03
+2025-11-13,Koyambedu Mandi,Chennai,Tamil Nadu,4643.87,5132.69,4888.28
+2025-11-14,Koyambedu Mandi,Chennai,Tamil Nadu,4782.55,5285.97,5034.26
+2025-11-15,Koyambedu Mandi,Chennai,Tamil Nadu,4772.28,5274.62,5023.45
+2025-11-16,Koyambedu Mandi,Chennai,Tamil Nadu,4895.77,5411.11,5153.44
+2025-11-17,Koyambedu Mandi,Chennai,Tamil Nadu,4986.47,5511.37,5248.92
+2025-11-18,Koyambedu Mandi,Chennai,Tamil Nadu,4879.1,5392.69,5135.9
+2025-11-19,Koyambedu Mandi,Chennai,Tamil Nadu,4889.36,5404.03,5146.7
+2025-11-20,Koyambedu Mandi,Chennai,Tamil Nadu,4980.67,5504.95,5242.81
+2025-11-21,Koyambedu Mandi,Chennai,Tamil Nadu,4921.9,5440.0,5180.95
+2025-11-22,Koyambedu Mandi,Chennai,Tamil Nadu,4850.73,5361.33,5106.03
+2025-11-23,Koyambedu Mandi,Chennai,Tamil Nadu,4869.3,5381.86,5125.58
+2025-11-24,Koyambedu Mandi,Chennai,Tamil Nadu,4841.67,5351.31,5096.49
+2025-11-25,Koyambedu Mandi,Chennai,Tamil Nadu,4975.94,5499.72,5237.83
+2025-11-26,Koyambedu Mandi,Chennai,Tamil Nadu,5058.58,5591.06,5324.82
+2025-11-27,Koyambedu Mandi,Chennai,Tamil Nadu,5198.82,5746.06,5472.44
+2025-11-28,Koyambedu Mandi,Chennai,Tamil Nadu,5045.77,5576.91,5311.34
+2025-11-29,Koyambedu Mandi,Chennai,Tamil Nadu,5014.96,5542.86,5278.91
+2025-11-30,Koyambedu Mandi,Chennai,Tamil Nadu,4865.06,5377.18,5121.12
+2025-12-01,Koyambedu Mandi,Chennai,Tamil Nadu,4959.41,5481.45,5220.43
+2025-12-02,Koyambedu Mandi,Chennai,Tamil Nadu,4940.53,5460.59,5200.56
+2025-12-03,Koyambedu Mandi,Chennai,Tamil Nadu,5053.16,5585.08,5319.12
+2025-12-04,Koyambedu Mandi,Chennai,Tamil Nadu,4959.46,5481.5,5220.48
+2025-12-05,Koyambedu Mandi,Chennai,Tamil Nadu,4902.07,5418.07,5160.07
+2025-12-06,Koyambedu Mandi,Chennai,Tamil Nadu,4784.21,5287.81,5036.01
+2025-12-07,Koyambedu Mandi,Chennai,Tamil Nadu,4823.24,5330.96,5077.1
+2025-12-08,Koyambedu Mandi,Chennai,Tamil Nadu,4760.78,5261.92,5011.35
+2025-12-09,Koyambedu Mandi,Chennai,Tamil Nadu,4793.56,5298.14,5045.85
+2025-12-10,Koyambedu Mandi,Chennai,Tamil Nadu,4749.6,5249.56,4999.58
+2025-12-11,Koyambedu Mandi,Chennai,Tamil Nadu,4714.53,5210.79,4962.66
+2025-12-12,Koyambedu Mandi,Chennai,Tamil Nadu,4657.49,5147.75,4902.62
+2025-12-13,Koyambedu Mandi,Chennai,Tamil Nadu,4655.04,5145.04,4900.04
+2025-12-14,Koyambedu Mandi,Chennai,Tamil Nadu,4741.08,5240.14,4990.61
+2025-12-15,Koyambedu Mandi,Chennai,Tamil Nadu,4824.13,5331.93,5078.03
+2025-12-16,Koyambedu Mandi,Chennai,Tamil Nadu,4799.25,5304.43,5051.84
+2025-12-17,Koyambedu Mandi,Chennai,Tamil Nadu,4924.53,5442.91,5183.72
+2025-12-18,Koyambedu Mandi,Chennai,Tamil Nadu,4868.44,5380.9,5124.67
+2025-12-19,Koyambedu Mandi,Chennai,Tamil Nadu,4743.06,5242.34,4992.7
+2025-12-20,Koyambedu Mandi,Chennai,Tamil Nadu,4860.08,5371.66,5115.87
+2025-12-21,Koyambedu Mandi,Chennai,Tamil Nadu,4823.2,5330.9,5077.05
+2025-12-22,Koyambedu Mandi,Chennai,Tamil Nadu,4924.66,5443.04,5183.85
+2025-12-23,Koyambedu Mandi,Chennai,Tamil Nadu,4873.12,5386.08,5129.6
+2025-12-24,Koyambedu Mandi,Chennai,Tamil Nadu,4930.35,5449.33,5189.84
+2025-12-25,Koyambedu Mandi,Chennai,Tamil Nadu,4926.32,5444.88,5185.6
+2025-12-26,Koyambedu Mandi,Chennai,Tamil Nadu,4964.59,5487.17,5225.88
+2025-12-27,Koyambedu Mandi,Chennai,Tamil Nadu,4991.51,5516.93,5254.22
+2025-12-28,Koyambedu Mandi,Chennai,Tamil Nadu,5115.2,5653.64,5384.42
+2025-12-29,Koyambedu Mandi,Chennai,Tamil Nadu,5189.19,5735.43,5462.31
+2025-12-30,Koyambedu Mandi,Chennai,Tamil Nadu,5060.04,5592.68,5326.36
+2025-12-31,Koyambedu Mandi,Chennai,Tamil Nadu,5180.46,5725.78,5453.12
+2026-01-01,Koyambedu Mandi,Chennai,Tamil Nadu,5087.14,5622.62,5354.88
+2026-01-02,Koyambedu Mandi,Chennai,Tamil Nadu,5048.19,5579.57,5313.88
+2026-01-03,Koyambedu Mandi,Chennai,Tamil Nadu,4943.99,5464.41,5204.2
+2026-01-04,Koyambedu Mandi,Chennai,Tamil Nadu,4847.17,5357.39,5102.28
+2026-01-05,Koyambedu Mandi,Chennai,Tamil Nadu,4790.41,5294.67,5042.54
+2026-01-06,Koyambedu Mandi,Chennai,Tamil Nadu,4854.02,5364.98,5109.5
+2026-01-07,Koyambedu Mandi,Chennai,Tamil Nadu,4761.89,5263.15,5012.52
+2026-01-08,Koyambedu Mandi,Chennai,Tamil Nadu,4673.37,5165.31,4919.34
+2026-01-09,Koyambedu Mandi,Chennai,Tamil Nadu,4723.09,5220.25,4971.67
+2026-01-10,Koyambedu Mandi,Chennai,Tamil Nadu,4687.74,5181.18,4934.46
+2026-01-11,Koyambedu Mandi,Chennai,Tamil Nadu,4713.03,5209.13,4961.08
+2026-01-12,Koyambedu Mandi,Chennai,Tamil Nadu,4573.08,5054.46,4813.77
+2026-01-13,Koyambedu Mandi,Chennai,Tamil Nadu,4669.4,5160.92,4915.16
+2026-01-14,Koyambedu Mandi,Chennai,Tamil Nadu,4786.61,5290.47,5038.54
+2026-01-15,Koyambedu Mandi,Chennai,Tamil Nadu,4659.5,5149.98,4904.74
+2026-01-16,Koyambedu Mandi,Chennai,Tamil Nadu,4768.75,5270.73,5019.74
+2026-01-17,Koyambedu Mandi,Chennai,Tamil Nadu,4834.1,5342.96,5088.53
+2026-01-18,Koyambedu Mandi,Chennai,Tamil Nadu,4754.78,5255.28,5005.03
+2026-01-19,Koyambedu Mandi,Chennai,Tamil Nadu,4734.14,5232.47,4983.3
+2026-01-20,Koyambedu Mandi,Chennai,Tamil Nadu,4658.32,5148.66,4903.49
+2026-01-21,Koyambedu Mandi,Chennai,Tamil Nadu,4535.1,5012.48,4773.79
+2026-01-22,Koyambedu Mandi,Chennai,Tamil Nadu,4540.36,5018.3,4779.33
+2026-01-23,Koyambedu Mandi,Chennai,Tamil Nadu,4427.1,4893.11,4660.1
+2026-01-24,Koyambedu Mandi,Chennai,Tamil Nadu,4416.49,4881.39,4648.94
+2026-01-25,Koyambedu Mandi,Chennai,Tamil Nadu,4331.12,4787.02,4559.07
+2026-01-26,Koyambedu Mandi,Chennai,Tamil Nadu,4396.32,4859.1,4627.71
+2026-01-27,Koyambedu Mandi,Chennai,Tamil Nadu,4462.63,4932.39,4697.51
+2026-01-28,Koyambedu Mandi,Chennai,Tamil Nadu,4594.35,5077.97,4836.16
+2026-01-29,Koyambedu Mandi,Chennai,Tamil Nadu,4688.32,5181.82,4935.07
+2026-01-30,Koyambedu Mandi,Chennai,Tamil Nadu,4623.35,5110.01,4866.68
+2026-01-31,Koyambedu Mandi,Chennai,Tamil Nadu,4625.38,5112.26,4868.82
+2026-02-01,Koyambedu Mandi,Chennai,Tamil Nadu,4612.13,5097.61,4854.87
+2026-02-02,Koyambedu Mandi,Chennai,Tamil Nadu,4691.12,5184.92,4938.02
+2026-02-03,Koyambedu Mandi,Chennai,Tamil Nadu,4587.26,5070.12,4828.69
+2026-02-04,Koyambedu Mandi,Chennai,Tamil Nadu,4586.02,5068.76,4827.39
+2026-02-05,Koyambedu Mandi,Chennai,Tamil Nadu,4520.58,4996.44,4758.51
+2026-02-06,Koyambedu Mandi,Chennai,Tamil Nadu,4452.58,4921.28,4686.93
+2026-02-07,Koyambedu Mandi,Chennai,Tamil Nadu,4444.73,4912.59,4678.66
+2026-02-08,Koyambedu Mandi,Chennai,Tamil Nadu,4500.62,4974.36,4737.49
+2026-02-09,Koyambedu Mandi,Chennai,Tamil Nadu,4369.21,4829.13,4599.17
+2026-02-10,Koyambedu Mandi,Chennai,Tamil Nadu,4481.41,4953.13,4717.27
+2026-02-11,Koyambedu Mandi,Chennai,Tamil Nadu,4364.57,4823.99,4594.28
+2026-02-12,Koyambedu Mandi,Chennai,Tamil Nadu,4406.26,4870.08,4638.17
+2026-02-13,Koyambedu Mandi,Chennai,Tamil Nadu,4423.17,4888.77,4655.97
+2026-02-14,Koyambedu Mandi,Chennai,Tamil Nadu,4339.9,4796.74,4568.32
+2026-02-15,Koyambedu Mandi,Chennai,Tamil Nadu,4422.49,4888.01,4655.25
+2026-02-16,Koyambedu Mandi,Chennai,Tamil Nadu,4373.44,4833.8,4603.62
+2026-02-17,Koyambedu Mandi,Chennai,Tamil Nadu,4424.5,4890.24,4657.37
+2026-02-18,Koyambedu Mandi,Chennai,Tamil Nadu,4306.08,4759.36,4532.72
+2026-02-19,Koyambedu Mandi,Chennai,Tamil Nadu,4341.08,4798.04,4569.56
+2026-02-20,Koyambedu Mandi,Chennai,Tamil Nadu,4328.1,4783.69,4555.9
+2026-02-21,Koyambedu Mandi,Chennai,Tamil Nadu,4253.71,4701.47,4477.59
+2026-02-22,Koyambedu Mandi,Chennai,Tamil Nadu,4354.31,4812.65,4583.48
+2026-02-23,Koyambedu Mandi,Chennai,Tamil Nadu,4293.38,4745.32,4519.35
+2026-02-24,Koyambedu Mandi,Chennai,Tamil Nadu,4296.67,4748.95,4522.81
+2026-02-25,Koyambedu Mandi,Chennai,Tamil Nadu,4215.59,4659.33,4437.46
+2026-02-26,Koyambedu Mandi,Chennai,Tamil Nadu,4155.69,4593.13,4374.41
+2026-02-27,Koyambedu Mandi,Chennai,Tamil Nadu,4255.28,4703.2,4479.24
+2026-02-28,Koyambedu Mandi,Chennai,Tamil Nadu,4230.37,4675.67,4453.02
+2026-03-01,Koyambedu Mandi,Chennai,Tamil Nadu,4281.36,4732.03,4506.7
+2026-03-02,Koyambedu Mandi,Chennai,Tamil Nadu,4247.03,4694.09,4470.56
+2026-03-03,Koyambedu Mandi,Chennai,Tamil Nadu,4374.18,4834.62,4604.4
+2026-03-04,Koyambedu Mandi,Chennai,Tamil Nadu,4471.77,4942.49,4707.13
+2026-03-05,Koyambedu Mandi,Chennai,Tamil Nadu,4399.92,4863.06,4631.49
+2026-03-06,Koyambedu Mandi,Chennai,Tamil Nadu,4442.04,4909.62,4675.83
+2026-03-07,Koyambedu Mandi,Chennai,Tamil Nadu,4446.96,4915.06,4681.01
+2026-03-08,Koyambedu Mandi,Chennai,Tamil Nadu,4486.29,4958.53,4722.41
+2026-03-09,Koyambedu Mandi,Chennai,Tamil Nadu,4439.38,4906.68,4673.03
+2026-03-10,Koyambedu Mandi,Chennai,Tamil Nadu,4444.27,4912.09,4678.18
+2026-03-11,Koyambedu Mandi,Chennai,Tamil Nadu,4550.83,5029.87,4790.35
+2026-03-12,Koyambedu Mandi,Chennai,Tamil Nadu,4476.57,4947.79,4712.18
+2026-03-13,Koyambedu Mandi,Chennai,Tamil Nadu,4378.85,4839.79,4609.32
+2026-03-14,Koyambedu Mandi,Chennai,Tamil Nadu,4424.08,4889.78,4656.93
+2026-03-15,Koyambedu Mandi,Chennai,Tamil Nadu,4531.1,5008.06,4769.58
+2026-03-16,Koyambedu Mandi,Chennai,Tamil Nadu,4622.56,5109.14,4865.85
+2026-03-17,Koyambedu Mandi,Chennai,Tamil Nadu,4613.75,5099.41,4856.58
+2026-03-18,Koyambedu Mandi,Chennai,Tamil Nadu,4546.61,5025.21,4785.91
+2026-03-19,Koyambedu Mandi,Chennai,Tamil Nadu,4611.11,5096.49,4853.8
+2026-03-20,Koyambedu Mandi,Chennai,Tamil Nadu,4580.14,5062.26,4821.2
+2026-03-21,Koyambedu Mandi,Chennai,Tamil Nadu,4631.78,5119.34,4875.56
+2026-03-22,Koyambedu Mandi,Chennai,Tamil Nadu,4681.56,5174.36,4927.96
+2026-03-23,Koyambedu Mandi,Chennai,Tamil Nadu,4740.77,5239.79,4990.28
+2026-03-24,Koyambedu Mandi,Chennai,Tamil Nadu,4795.84,5300.66,5048.25
+2026-03-25,Koyambedu Mandi,Chennai,Tamil Nadu,4742.35,5241.55,4991.95
+2026-03-26,Koyambedu Mandi,Chennai,Tamil Nadu,4698.03,5192.57,4945.3
+2026-03-27,Koyambedu Mandi,Chennai,Tamil Nadu,4617.65,5103.71,4860.68
+2026-03-28,Koyambedu Mandi,Chennai,Tamil Nadu,4517.4,4992.92,4755.16
+2026-03-29,Koyambedu Mandi,Chennai,Tamil Nadu,4381.99,4843.25,4612.62
+2026-03-30,Koyambedu Mandi,Chennai,Tamil Nadu,4402.04,4865.42,4633.73
+2026-03-31,Koyambedu Mandi,Chennai,Tamil Nadu,4473.08,4943.94,4708.51
+2026-04-01,Koyambedu Mandi,Chennai,Tamil Nadu,4483.99,4955.99,4719.99
+2026-04-02,Koyambedu Mandi,Chennai,Tamil Nadu,4501.51,4975.35,4738.43
+2026-04-03,Koyambedu Mandi,Chennai,Tamil Nadu,4420.52,4885.84,4653.18
+2026-04-04,Koyambedu Mandi,Chennai,Tamil Nadu,4398.49,4861.49,4629.99
+2026-04-05,Koyambedu Mandi,Chennai,Tamil Nadu,4411.14,4875.47,4643.3
+2026-04-06,Koyambedu Mandi,Chennai,Tamil Nadu,4286.61,4737.83,4512.22
+2026-04-07,Koyambedu Mandi,Chennai,Tamil Nadu,4204.86,4647.48,4426.17
+2026-04-08,Koyambedu Mandi,Chennai,Tamil Nadu,4233.89,4679.57,4456.73
+2026-04-09,Koyambedu Mandi,Chennai,Tamil Nadu,4197.9,4639.78,4418.84
+2026-04-10,Koyambedu Mandi,Chennai,Tamil Nadu,4104.34,4536.38,4320.36
+2026-04-11,Koyambedu Mandi,Chennai,Tamil Nadu,4004.5,4426.02,4215.26
+2026-04-12,Koyambedu Mandi,Chennai,Tamil Nadu,3967.74,4385.4,4176.57
+2026-04-13,Koyambedu Mandi,Chennai,Tamil Nadu,4035.6,4460.4,4248.0
+2026-04-14,Koyambedu Mandi,Chennai,Tamil Nadu,4057.0,4484.06,4270.53
+2026-04-15,Koyambedu Mandi,Chennai,Tamil Nadu,4123.37,4557.41,4340.39
+2026-04-16,Koyambedu Mandi,Chennai,Tamil Nadu,4074.08,4502.94,4288.51
+2026-04-17,Koyambedu Mandi,Chennai,Tamil Nadu,3964.39,4381.69,4173.04
+2026-04-18,Koyambedu Mandi,Chennai,Tamil Nadu,3894.11,4304.01,4099.06
+2026-04-19,Koyambedu Mandi,Chennai,Tamil Nadu,4003.35,4424.75,4214.05
+2026-04-20,Koyambedu Mandi,Chennai,Tamil Nadu,3937.06,4351.48,4144.27
+2026-04-21,Koyambedu Mandi,Chennai,Tamil Nadu,3881.87,4290.49,4086.18
+2026-04-22,Koyambedu Mandi,Chennai,Tamil Nadu,3890.03,4299.51,4094.77
+2026-04-23,Koyambedu Mandi,Chennai,Tamil Nadu,3997.75,4418.57,4208.16
+2026-04-24,Koyambedu Mandi,Chennai,Tamil Nadu,4046.0,4471.9,4258.95
+2026-04-25,Koyambedu Mandi,Chennai,Tamil Nadu,4001.5,4422.72,4212.11
+2026-04-26,Koyambedu Mandi,Chennai,Tamil Nadu,4117.88,4551.34,4334.61
+2026-04-27,Koyambedu Mandi,Chennai,Tamil Nadu,4022.59,4446.03,4234.31
+2026-04-28,Koyambedu Mandi,Chennai,Tamil Nadu,3969.04,4386.84,4177.94
+2026-04-29,Koyambedu Mandi,Chennai,Tamil Nadu,3902.23,4312.99,4107.61
+2026-04-30,Koyambedu Mandi,Chennai,Tamil Nadu,3905.53,4316.63,4111.08
+2026-05-01,Koyambedu Mandi,Chennai,Tamil Nadu,3952.99,4369.09,4161.04
+2026-05-02,Koyambedu Mandi,Chennai,Tamil Nadu,3869.64,4276.98,4073.31
+2026-05-03,Koyambedu Mandi,Chennai,Tamil Nadu,3840.59,4244.87,4042.73
+2026-05-04,Koyambedu Mandi,Chennai,Tamil Nadu,3918.79,4331.29,4125.04
+2026-05-05,Koyambedu Mandi,Chennai,Tamil Nadu,3817.53,4219.37,4018.45
+2026-05-06,Koyambedu Mandi,Chennai,Tamil Nadu,3718.53,4109.95,3914.24
+2026-05-07,Koyambedu Mandi,Chennai,Tamil Nadu,3639.06,4022.12,3830.59
+2026-05-08,Koyambedu Mandi,Chennai,Tamil Nadu,3656.49,4041.39,3848.94
+2026-05-09,Koyambedu Mandi,Chennai,Tamil Nadu,3551.01,3924.81,3737.91
+2026-05-10,Koyambedu Mandi,Chennai,Tamil Nadu,3507.18,3876.36,3691.77
+2026-05-11,Koyambedu Mandi,Chennai,Tamil Nadu,3470.43,3835.73,3653.08
+2026-05-12,Koyambedu Mandi,Chennai,Tamil Nadu,3414.17,3773.55,3593.86
+2026-05-13,Koyambedu Mandi,Chennai,Tamil Nadu,3513.66,3883.52,3698.59
+2026-05-14,Koyambedu Mandi,Chennai,Tamil Nadu,3421.28,3781.42,3601.35
+2026-05-15,Koyambedu Mandi,Chennai,Tamil Nadu,3380.51,3736.35,3558.43
+2026-05-16,Koyambedu Mandi,Chennai,Tamil Nadu,3347.49,3699.85,3523.67
+2026-05-17,Koyambedu Mandi,Chennai,Tamil Nadu,3347.93,3700.35,3524.14
+2026-05-18,Koyambedu Mandi,Chennai,Tamil Nadu,3340.66,3692.3,3516.48
+2026-05-19,Koyambedu Mandi,Chennai,Tamil Nadu,3434.64,3796.18,3615.41
+2026-05-20,Koyambedu Mandi,Chennai,Tamil Nadu,3482.52,3849.1,3665.81
+2026-05-21,Koyambedu Mandi,Chennai,Tamil Nadu,3495.95,3863.95,3679.95
+2026-05-22,Koyambedu Mandi,Chennai,Tamil Nadu,3597.83,3976.55,3787.19
+2026-05-23,Koyambedu Mandi,Chennai,Tamil Nadu,3679.26,4066.55,3872.9
+2026-05-24,Koyambedu Mandi,Chennai,Tamil Nadu,3712.38,4103.16,3907.77
+2026-05-25,Koyambedu Mandi,Chennai,Tamil Nadu,3768.3,4164.96,3966.63
+2026-05-26,Koyambedu Mandi,Chennai,Tamil Nadu,3691.76,4080.36,3886.06
+2026-05-27,Koyambedu Mandi,Chennai,Tamil Nadu,3706.67,4096.85,3901.76
+2026-05-28,Koyambedu Mandi,Chennai,Tamil Nadu,3637.66,4020.58,3829.12
+2026-05-29,Koyambedu Mandi,Chennai,Tamil Nadu,3618.45,3999.35,3808.9
+2026-05-30,Koyambedu Mandi,Chennai,Tamil Nadu,3690.21,4078.65,3884.43
+2026-05-31,Koyambedu Mandi,Chennai,Tamil Nadu,3594.75,3973.15,3783.95
+2026-06-01,Koyambedu Mandi,Chennai,Tamil Nadu,3693.06,4081.8,3887.43
+2026-06-02,Koyambedu Mandi,Chennai,Tamil Nadu,3714.79,4105.83,3910.31
+2026-06-03,Koyambedu Mandi,Chennai,Tamil Nadu,3697.59,4086.81,3892.2
+2026-06-04,Koyambedu Mandi,Chennai,Tamil Nadu,3627.43,4009.27,3818.35
+2026-06-05,Koyambedu Mandi,Chennai,Tamil Nadu,3596.7,3975.3,3786.0
+2026-06-06,Koyambedu Mandi,Chennai,Tamil Nadu,3547.65,3921.09,3734.37
+2026-06-07,Koyambedu Mandi,Chennai,Tamil Nadu,3495.21,3863.13,3679.17
+2026-06-08,Koyambedu Mandi,Chennai,Tamil Nadu,3419.44,3779.38,3599.41
+2026-06-09,Koyambedu Mandi,Chennai,Tamil Nadu,3434.07,3795.55,3614.81
+2026-06-10,Koyambedu Mandi,Chennai,Tamil Nadu,3390.45,3747.35,3568.9
+2026-06-11,Koyambedu Mandi,Chennai,Tamil Nadu,3431.47,3792.67,3612.07
+2026-06-12,Koyambedu Mandi,Chennai,Tamil Nadu,3469.01,3834.17,3651.59
+2026-06-13,Koyambedu Mandi,Chennai,Tamil Nadu,3558.51,3933.09,3745.8
+2026-06-14,Koyambedu Mandi,Chennai,Tamil Nadu,3500.86,3869.38,3685.12
+2026-06-15,Koyambedu Mandi,Chennai,Tamil Nadu,3565.66,3941.0,3753.33
+2026-06-16,Koyambedu Mandi,Chennai,Tamil Nadu,3516.81,3887.01,3701.91
+2026-06-17,Koyambedu Mandi,Chennai,Tamil Nadu,3460.38,3824.64,3642.51
+2026-06-18,Koyambedu Mandi,Chennai,Tamil Nadu,3396.4,3753.92,3575.16
+2026-06-19,Koyambedu Mandi,Chennai,Tamil Nadu,3368.71,3723.31,3546.01
+2026-06-20,Koyambedu Mandi,Chennai,Tamil Nadu,3379.6,3735.34,3557.47
+2026-06-21,Koyambedu Mandi,Chennai,Tamil Nadu,3299.01,3646.27,3472.64
+2026-06-22,Koyambedu Mandi,Chennai,Tamil Nadu,3221.84,3560.98,3391.41
+2026-06-23,Koyambedu Mandi,Chennai,Tamil Nadu,3275.13,3619.89,3447.51
+2026-06-24,Koyambedu Mandi,Chennai,Tamil Nadu,3271.52,3615.9,3443.71
+2026-06-25,Koyambedu Mandi,Chennai,Tamil Nadu,3246.37,3588.09,3417.23
+2026-06-26,Koyambedu Mandi,Chennai,Tamil Nadu,3157.32,3489.68,3323.5
+2026-06-27,Koyambedu Mandi,Chennai,Tamil Nadu,3100.7,3427.08,3263.89
+2026-06-28,Koyambedu Mandi,Chennai,Tamil Nadu,3116.72,3444.8,3280.76
+2026-06-29,Koyambedu Mandi,Chennai,Tamil Nadu,3124.42,3453.3,3288.86
+2026-06-30,Koyambedu Mandi,Chennai,Tamil Nadu,3078.24,3402.26,3240.25
+2026-07-01,Koyambedu Mandi,Chennai,Tamil Nadu,3084.01,3408.65,3246.33
+2026-07-02,Koyambedu Mandi,Chennai,Tamil Nadu,3081.16,3405.5,3243.33
+2026-07-03,Koyambedu Mandi,Chennai,Tamil Nadu,3079.33,3403.47,3241.4
+2026-07-04,Koyambedu Mandi,Chennai,Tamil Nadu,3074.04,3397.62,3235.83
+2026-07-05,Koyambedu Mandi,Chennai,Tamil Nadu,3102.23,3428.79,3265.51
+2026-07-06,Koyambedu Mandi,Chennai,Tamil Nadu,3064.75,3387.35,3226.05
+2026-07-07,Koyambedu Mandi,Chennai,Tamil Nadu,3067.3,3390.18,3228.74
+2026-07-08,Koyambedu Mandi,Chennai,Tamil Nadu,3030.91,3349.95,3190.43
+2026-07-09,Koyambedu Mandi,Chennai,Tamil Nadu,2990.78,3305.6,3148.19
+2026-07-10,Koyambedu Mandi,Chennai,Tamil Nadu,3060.1,3382.22,3221.16
+2026-07-11,Koyambedu Mandi,Chennai,Tamil Nadu,3017.69,3335.35,3176.52
+2026-07-12,Koyambedu Mandi,Chennai,Tamil Nadu,3005.81,3322.21,3164.01
+2026-07-13,Koyambedu Mandi,Chennai,Tamil Nadu,2940.95,3250.53,3095.74
+2026-07-14,Koyambedu Mandi,Chennai,Tamil Nadu,2994.97,3310.23,3152.6
+2026-07-15,Koyambedu Mandi,Chennai,Tamil Nadu,2990.69,3305.51,3148.1
+2026-07-16,Koyambedu Mandi,Chennai,Tamil Nadu,3000.52,3316.36,3158.44
+2026-07-17,Koyambedu Mandi,Chennai,Tamil Nadu,2928.37,3236.61,3082.49
+2026-07-18,Koyambedu Mandi,Chennai,Tamil Nadu,2865.16,3166.76,3015.96
+2026-07-19,Koyambedu Mandi,Chennai,Tamil Nadu,2795.57,3089.85,2942.71
+2026-07-20,Koyambedu Mandi,Chennai,Tamil Nadu,2806.02,3101.4,2953.71
+2026-07-21,Koyambedu Mandi,Chennai,Tamil Nadu,2866.81,3168.59,3017.7
+2026-07-22,Koyambedu Mandi,Chennai,Tamil Nadu,2936.91,3246.05,3091.48
+2026-07-23,Koyambedu Mandi,Chennai,Tamil Nadu,2987.35,3301.81,3144.58
+2026-07-24,Koyambedu Mandi,Chennai,Tamil Nadu,2924.72,3232.58,3078.65
+2026-07-25,Koyambedu Mandi,Chennai,Tamil Nadu,2902.32,3207.82,3055.07
+2026-07-26,Koyambedu Mandi,Chennai,Tamil Nadu,2897.64,3202.66,3050.15
+2026-07-27,Koyambedu Mandi,Chennai,Tamil Nadu,2860.43,3161.53,3010.98
+2026-07-28,Koyambedu Mandi,Chennai,Tamil Nadu,2871.25,3173.49,3022.37
+2026-07-29,Koyambedu Mandi,Chennai,Tamil Nadu,2910.33,3216.69,3063.51
+2026-07-30,Koyambedu Mandi,Chennai,Tamil Nadu,2915.06,3221.9,3068.48
+2026-07-31,Koyambedu Mandi,Chennai,Tamil Nadu,2992.74,3307.76,3150.25
+2026-08-01,Koyambedu Mandi,Chennai,Tamil Nadu,3030.47,3349.47,3189.97
+2026-08-02,Koyambedu Mandi,Chennai,Tamil Nadu,3111.07,3438.55,3274.81
+2026-08-03,Koyambedu Mandi,Chennai,Tamil Nadu,3163.4,3496.38,3329.89
+2026-08-04,Koyambedu Mandi,Chennai,Tamil Nadu,3134.0,3463.9,3298.95
+2026-08-05,Koyambedu Mandi,Chennai,Tamil Nadu,3072.01,3395.37,3233.69
+2026-08-06,Koyambedu Mandi,Chennai,Tamil Nadu,3051.89,3373.15,3212.52
+2026-08-07,Koyambedu Mandi,Chennai,Tamil Nadu,3059.48,3381.54,3220.51
+2026-08-08,Koyambedu Mandi,Chennai,Tamil Nadu,3061.82,3384.12,3222.97
+2026-08-09,Koyambedu Mandi,Chennai,Tamil Nadu,2984.8,3299.0,3141.9
+2026-08-10,Koyambedu Mandi,Chennai,Tamil Nadu,3025.41,3343.87,3184.64
+2026-08-11,Koyambedu Mandi,Chennai,Tamil Nadu,3018.95,3336.73,3177.84
+2026-08-12,Koyambedu Mandi,Chennai,Tamil Nadu,2956.06,3267.22,3111.64
+2026-08-13,Koyambedu Mandi,Chennai,Tamil Nadu,3041.37,3361.51,3201.44
+2026-08-14,Koyambedu Mandi,Chennai,Tamil Nadu,2951.83,3262.55,3107.19
+2026-08-15,Koyambedu Mandi,Chennai,Tamil Nadu,2907.13,3213.15,3060.14
+2026-08-16,Koyambedu Mandi,Chennai,Tamil Nadu,2902.26,3207.76,3055.01
+2026-08-17,Koyambedu Mandi,Chennai,Tamil Nadu,2965.6,3277.76,3121.68
+2026-08-18,Koyambedu Mandi,Chennai,Tamil Nadu,2955.2,3266.28,3110.74
+2026-08-19,Koyambedu Mandi,Chennai,Tamil Nadu,2913.91,3220.63,3067.27
+2026-08-20,Koyambedu Mandi,Chennai,Tamil Nadu,2877.9,3180.84,3029.37
+2026-08-21,Koyambedu Mandi,Chennai,Tamil Nadu,2959.07,3270.55,3114.81
+2026-08-22,Koyambedu Mandi,Chennai,Tamil Nadu,3042.57,3362.85,3202.71
+2026-08-23,Koyambedu Mandi,Chennai,Tamil Nadu,3038.94,3358.82,3198.88
+2026-08-24,Koyambedu Mandi,Chennai,Tamil Nadu,3065.83,3388.55,3227.19
+2026-08-25,Koyambedu Mandi,Chennai,Tamil Nadu,3127.97,3457.23,3292.6
+2026-08-26,Koyambedu Mandi,Chennai,Tamil Nadu,3136.85,3467.05,3301.95
+2026-08-27,Koyambedu Mandi,Chennai,Tamil Nadu,3093.61,3419.25,3256.43
+2026-08-28,Koyambedu Mandi,Chennai,Tamil Nadu,3163.95,3496.99,3330.47
+2026-08-29,Koyambedu Mandi,Chennai,Tamil Nadu,3208.35,3546.07,3377.21
+2026-08-30,Koyambedu Mandi,Chennai,Tamil Nadu,3177.51,3511.99,3344.75
+2026-08-31,Koyambedu Mandi,Chennai,Tamil Nadu,3230.49,3570.55,3400.52
+2026-09-01,Koyambedu Mandi,Chennai,Tamil Nadu,3239.77,3580.79,3410.28
+2026-09-02,Koyambedu Mandi,Chennai,Tamil Nadu,3179.41,3514.09,3346.75
+2026-09-03,Koyambedu Mandi,Chennai,Tamil Nadu,3255.28,3597.94,3426.61
+2026-09-04,Koyambedu Mandi,Chennai,Tamil Nadu,3310.33,3658.79,3484.56
+2026-09-05,Koyambedu Mandi,Chennai,Tamil Nadu,3324.79,3674.77,3499.78
+2026-09-06,Koyambedu Mandi,Chennai,Tamil Nadu,3285.05,3630.85,3457.95
+2026-09-07,Koyambedu Mandi,Chennai,Tamil Nadu,3229.82,3569.8,3399.81
+2026-09-08,Koyambedu Mandi,Chennai,Tamil Nadu,3205.18,3542.56,3373.87
+2026-09-09,Koyambedu Mandi,Chennai,Tamil Nadu,3287.21,3633.23,3460.22
+2026-09-10,Koyambedu Mandi,Chennai,Tamil Nadu,3192.8,3528.88,3360.84
+2026-09-11,Koyambedu Mandi,Chennai,Tamil Nadu,3167.96,3501.43,3334.7
+2026-09-12,Koyambedu Mandi,Chennai,Tamil Nadu,3076.93,3400.81,3238.87
+2026-09-13,Koyambedu Mandi,Chennai,Tamil Nadu,3030.0,3348.94,3189.47
+2026-09-14,Koyambedu Mandi,Chennai,Tamil Nadu,3111.45,3438.97,3275.21
+2025-09-15,Lasalgaon Mandi,Nashik,Maharashtra,3709.48,4099.96,3904.72
+2025-09-16,Lasalgaon Mandi,Nashik,Maharashtra,3639.74,4022.87,3831.3
+2025-09-17,Lasalgaon Mandi,Nashik,Maharashtra,3744.09,4138.21,3941.15
+2025-09-18,Lasalgaon Mandi,Nashik,Maharashtra,3632.53,4014.91,3823.72
+2025-09-19,Lasalgaon Mandi,Nashik,Maharashtra,3558.94,3933.56,3746.25
+2025-09-20,Lasalgaon Mandi,Nashik,Maharashtra,3610.02,3990.02,3800.02
+2025-09-21,Lasalgaon Mandi,Nashik,Maharashtra,3536.03,3908.25,3722.14
+2025-09-22,Lasalgaon Mandi,Nashik,Maharashtra,3500.39,3868.85,3684.62
+2025-09-23,Lasalgaon Mandi,Nashik,Maharashtra,3543.82,3916.86,3730.34
+2025-09-24,Lasalgaon Mandi,Nashik,Maharashtra,3442.18,3804.52,3623.35
+2025-09-25,Lasalgaon Mandi,Nashik,Maharashtra,3407.92,3766.64,3587.28
+2025-09-26,Lasalgaon Mandi,Nashik,Maharashtra,3497.69,3865.87,3681.78
+2025-09-27,Lasalgaon Mandi,Nashik,Maharashtra,3564.24,3939.42,3751.83
+2025-09-28,Lasalgaon Mandi,Nashik,Maharashtra,3497.1,3865.22,3681.16
+2025-09-29,Lasalgaon Mandi,Nashik,Maharashtra,3506.14,3875.2,3690.67
+2025-09-30,Lasalgaon Mandi,Nashik,Maharashtra,3490.92,3858.38,3674.65
+2025-10-01,Lasalgaon Mandi,Nashik,Maharashtra,3472.76,3838.32,3655.54
+2025-10-02,Lasalgaon Mandi,Nashik,Maharashtra,3431.01,3792.17,3611.59
+2025-10-03,Lasalgaon Mandi,Nashik,Maharashtra,3386.62,3743.1,3564.86
+2025-10-04,Lasalgaon Mandi,Nashik,Maharashtra,3358.58,3712.12,3535.35
+2025-10-05,Lasalgaon Mandi,Nashik,Maharashtra,3427.81,3788.63,3608.22
+2025-10-06,Lasalgaon Mandi,Nashik,Maharashtra,3393.01,3750.17,3571.59
+2025-10-07,Lasalgaon Mandi,Nashik,Maharashtra,3408.27,3767.03,3587.65
+2025-10-08,Lasalgaon Mandi,Nashik,Maharashtra,3439.6,3801.66,3620.63
+2025-10-09,Lasalgaon Mandi,Nashik,Maharashtra,3438.49,3800.43,3619.46
+2025-10-10,Lasalgaon Mandi,Nashik,Maharashtra,3414.78,3774.24,3594.51
+2025-10-11,Lasalgaon Mandi,Nashik,Maharashtra,3482.42,3849.0,3665.71
+2025-10-12,Lasalgaon Mandi,Nashik,Maharashtra,3460.18,3824.4,3642.29
+2025-10-13,Lasalgaon Mandi,Nashik,Maharashtra,3526.28,3897.46,3711.87
+2025-10-14,Lasalgaon Mandi,Nashik,Maharashtra,3513.48,3883.32,3698.4
+2025-10-15,Lasalgaon Mandi,Nashik,Maharashtra,3514.4,3884.34,3699.37
+2025-10-16,Lasalgaon Mandi,Nashik,Maharashtra,3428.16,3789.02,3608.59
+2025-10-17,Lasalgaon Mandi,Nashik,Maharashtra,3400.72,3758.7,3579.71
+2025-10-18,Lasalgaon Mandi,Nashik,Maharashtra,3482.93,3849.55,3666.24
+2025-10-19,Lasalgaon Mandi,Nashik,Maharashtra,3477.47,3843.53,3660.5
+2025-10-20,Lasalgaon Mandi,Nashik,Maharashtra,3449.55,3812.67,3631.11
+2025-10-21,Lasalgaon Mandi,Nashik,Maharashtra,3380.88,3736.76,3558.82
+2025-10-22,Lasalgaon Mandi,Nashik,Maharashtra,3294.39,3641.17,3467.78
+2025-10-23,Lasalgaon Mandi,Nashik,Maharashtra,3219.21,3558.07,3388.64
+2025-10-24,Lasalgaon Mandi,Nashik,Maharashtra,3217.34,3556.0,3386.67
+2025-10-25,Lasalgaon Mandi,Nashik,Maharashtra,3165.03,3498.19,3331.61
+2025-10-26,Lasalgaon Mandi,Nashik,Maharashtra,3119.88,3448.28,3284.08
+2025-10-27,Lasalgaon Mandi,Nashik,Maharashtra,3127.48,3456.68,3292.08
+2025-10-28,Lasalgaon Mandi,Nashik,Maharashtra,3045.06,3365.6,3205.33
+2025-10-29,Lasalgaon Mandi,Nashik,Maharashtra,3017.93,3335.61,3176.77
+2025-10-30,Lasalgaon Mandi,Nashik,Maharashtra,3054.19,3375.69,3214.94
+2025-10-31,Lasalgaon Mandi,Nashik,Maharashtra,3086.15,3411.01,3248.58
+2025-11-01,Lasalgaon Mandi,Nashik,Maharashtra,3095.83,3421.71,3258.77
+2025-11-02,Lasalgaon Mandi,Nashik,Maharashtra,3069.75,3392.89,3231.32
+2025-11-03,Lasalgaon Mandi,Nashik,Maharashtra,3065.89,3388.61,3227.25
+2025-11-04,Lasalgaon Mandi,Nashik,Maharashtra,3020.72,3338.7,3179.71
+2025-11-05,Lasalgaon Mandi,Nashik,Maharashtra,2937.87,3247.11,3092.49
+2025-11-06,Lasalgaon Mandi,Nashik,Maharashtra,2928.55,3236.81,3082.68
+2025-11-07,Lasalgaon Mandi,Nashik,Maharashtra,2867.84,3169.72,3018.78
+2025-11-08,Lasalgaon Mandi,Nashik,Maharashtra,2936.21,3245.29,3090.75
+2025-11-09,Lasalgaon Mandi,Nashik,Maharashtra,2936.74,3245.88,3091.31
+2025-11-10,Lasalgaon Mandi,Nashik,Maharashtra,3006.09,3322.52,3164.3
+2025-11-11,Lasalgaon Mandi,Nashik,Maharashtra,2970.81,3283.53,3127.17
+2025-11-12,Lasalgaon Mandi,Nashik,Maharashtra,2896.22,3201.08,3048.65
+2025-11-13,Lasalgaon Mandi,Nashik,Maharashtra,2833.7,3131.98,2982.84
+2025-11-14,Lasalgaon Mandi,Nashik,Maharashtra,2794.67,3088.85,2941.76
+2025-11-15,Lasalgaon Mandi,Nashik,Maharashtra,2876.33,3179.11,3027.72
+2025-11-16,Lasalgaon Mandi,Nashik,Maharashtra,2798.85,3093.47,2946.16
+2025-11-17,Lasalgaon Mandi,Nashik,Maharashtra,2849.54,3149.5,2999.52
+2025-11-18,Lasalgaon Mandi,Nashik,Maharashtra,2886.14,3189.94,3038.04
+2025-11-19,Lasalgaon Mandi,Nashik,Maharashtra,2864.47,3165.99,3015.23
+2025-11-20,Lasalgaon Mandi,Nashik,Maharashtra,2789.63,3083.27,2936.45
+2025-11-21,Lasalgaon Mandi,Nashik,Maharashtra,2758.06,3048.38,2903.22
+2025-11-22,Lasalgaon Mandi,Nashik,Maharashtra,2778.42,3070.88,2924.65
+2025-11-23,Lasalgaon Mandi,Nashik,Maharashtra,2740.2,3028.64,2884.42
+2025-11-24,Lasalgaon Mandi,Nashik,Maharashtra,2770.96,3062.64,2916.8
+2025-11-25,Lasalgaon Mandi,Nashik,Maharashtra,2839.44,3138.32,2988.88
+2025-11-26,Lasalgaon Mandi,Nashik,Maharashtra,2853.47,3153.83,3003.65
+2025-11-27,Lasalgaon Mandi,Nashik,Maharashtra,2934.89,3243.83,3089.36
+2025-11-28,Lasalgaon Mandi,Nashik,Maharashtra,2878.63,3181.65,3030.14
+2025-11-29,Lasalgaon Mandi,Nashik,Maharashtra,2825.27,3122.67,2973.97
+2025-11-30,Lasalgaon Mandi,Nashik,Maharashtra,2828.13,3125.83,2976.98
+2025-12-01,Lasalgaon Mandi,Nashik,Maharashtra,2865.99,3167.67,3016.83
+2025-12-02,Lasalgaon Mandi,Nashik,Maharashtra,2796.84,3091.24,2944.04
+2025-12-03,Lasalgaon Mandi,Nashik,Maharashtra,2752.87,3042.65,2897.76
+2025-12-04,Lasalgaon Mandi,Nashik,Maharashtra,2800.72,3095.54,2948.13
+2025-12-05,Lasalgaon Mandi,Nashik,Maharashtra,2768.35,3059.75,2914.05
+2025-12-06,Lasalgaon Mandi,Nashik,Maharashtra,2692.78,2976.24,2834.51
+2025-12-07,Lasalgaon Mandi,Nashik,Maharashtra,2647.94,2926.68,2787.31
+2025-12-08,Lasalgaon Mandi,Nashik,Maharashtra,2619.79,2895.55,2757.67
+2025-12-09,Lasalgaon Mandi,Nashik,Maharashtra,2627.88,2904.5,2766.19
+2025-12-10,Lasalgaon Mandi,Nashik,Maharashtra,2682.5,2964.86,2823.68
+2025-12-11,Lasalgaon Mandi,Nashik,Maharashtra,2709.49,2994.7,2852.1
+2025-12-12,Lasalgaon Mandi,Nashik,Maharashtra,2775.45,3067.61,2921.53
+2025-12-13,Lasalgaon Mandi,Nashik,Maharashtra,2749.88,3039.34,2894.61
+2025-12-14,Lasalgaon Mandi,Nashik,Maharashtra,2697.74,2981.72,2839.73
+2025-12-15,Lasalgaon Mandi,Nashik,Maharashtra,2749.17,3038.55,2893.86
+2025-12-16,Lasalgaon Mandi,Nashik,Maharashtra,2730.9,3018.36,2874.63
+2025-12-17,Lasalgaon Mandi,Nashik,Maharashtra,2807.64,3103.18,2955.41
+2025-12-18,Lasalgaon Mandi,Nashik,Maharashtra,2865.73,3167.39,3016.56
+2025-12-19,Lasalgaon Mandi,Nashik,Maharashtra,2823.33,3120.53,2971.93
+2025-12-20,Lasalgaon Mandi,Nashik,Maharashtra,2795.66,3089.94,2942.8
+2025-12-21,Lasalgaon Mandi,Nashik,Maharashtra,2726.09,3013.05,2869.57
+2025-12-22,Lasalgaon Mandi,Nashik,Maharashtra,2705.96,2990.8,2848.38
+2025-12-23,Lasalgaon Mandi,Nashik,Maharashtra,2732.49,3020.12,2876.3
+2025-12-24,Lasalgaon Mandi,Nashik,Maharashtra,2738.53,3026.79,2882.66
+2025-12-25,Lasalgaon Mandi,Nashik,Maharashtra,2709.07,2994.23,2851.65
+2025-12-26,Lasalgaon Mandi,Nashik,Maharashtra,2761.26,3051.92,2906.59
+2025-12-27,Lasalgaon Mandi,Nashik,Maharashtra,2735.83,3023.81,2879.82
+2025-12-28,Lasalgaon Mandi,Nashik,Maharashtra,2701.43,2985.79,2843.61
+2025-12-29,Lasalgaon Mandi,Nashik,Maharashtra,2724.01,3010.75,2867.38
+2025-12-30,Lasalgaon Mandi,Nashik,Maharashtra,2738.13,3026.35,2882.24
+2025-12-31,Lasalgaon Mandi,Nashik,Maharashtra,2810.4,3106.24,2958.32
+2026-01-01,Lasalgaon Mandi,Nashik,Maharashtra,2737.42,3025.58,2881.5
+2026-01-02,Lasalgaon Mandi,Nashik,Maharashtra,2759.99,3050.51,2905.25
+2026-01-03,Lasalgaon Mandi,Nashik,Maharashtra,2833.28,3131.52,2982.4
+2026-01-04,Lasalgaon Mandi,Nashik,Maharashtra,2914.28,3221.04,3067.66
+2026-01-05,Lasalgaon Mandi,Nashik,Maharashtra,2849.16,3149.08,2999.12
+2026-01-06,Lasalgaon Mandi,Nashik,Maharashtra,2827.15,3124.75,2975.95
+2026-01-07,Lasalgaon Mandi,Nashik,Maharashtra,2756.61,3046.77,2901.69
+2026-01-08,Lasalgaon Mandi,Nashik,Maharashtra,2752.26,3041.98,2897.12
+2026-01-09,Lasalgaon Mandi,Nashik,Maharashtra,2834.7,3133.1,2983.9
+2026-01-10,Lasalgaon Mandi,Nashik,Maharashtra,2785.33,3078.53,2931.93
+2026-01-11,Lasalgaon Mandi,Nashik,Maharashtra,2813.13,3109.25,2961.19
+2026-01-12,Lasalgaon Mandi,Nashik,Maharashtra,2738.51,3026.77,2882.64
+2026-01-13,Lasalgaon Mandi,Nashik,Maharashtra,2717.62,3003.68,2860.65
+2026-01-14,Lasalgaon Mandi,Nashik,Maharashtra,2798.99,3093.63,2946.31
+2026-01-15,Lasalgaon Mandi,Nashik,Maharashtra,2745.54,3034.54,2890.04
+2026-01-16,Lasalgaon Mandi,Nashik,Maharashtra,2691.02,2974.28,2832.65
+2026-01-17,Lasalgaon Mandi,Nashik,Maharashtra,2629.48,2906.26,2767.87
+2026-01-18,Lasalgaon Mandi,Nashik,Maharashtra,2684.54,2967.12,2825.83
+2026-01-19,Lasalgaon Mandi,Nashik,Maharashtra,2636.94,2914.52,2775.73
+2026-01-20,Lasalgaon Mandi,Nashik,Maharashtra,2600.04,2873.72,2736.88
+2026-01-21,Lasalgaon Mandi,Nashik,Maharashtra,2584.66,2856.74,2720.7
+2026-01-22,Lasalgaon Mandi,Nashik,Maharashtra,2629.7,2906.52,2768.11
+2026-01-23,Lasalgaon Mandi,Nashik,Maharashtra,2640.99,2918.99,2779.99
+2026-01-24,Lasalgaon Mandi,Nashik,Maharashtra,2603.72,2877.8,2740.76
+2026-01-25,Lasalgaon Mandi,Nashik,Maharashtra,2533.64,2800.34,2666.99
+2026-01-26,Lasalgaon Mandi,Nashik,Maharashtra,2493.93,2756.45,2625.19
+2026-01-27,Lasalgaon Mandi,Nashik,Maharashtra,2501.81,2765.15,2633.48
+2026-01-28,Lasalgaon Mandi,Nashik,Maharashtra,2569.65,2840.13,2704.89
+2026-01-29,Lasalgaon Mandi,Nashik,Maharashtra,2496.88,2759.7,2628.29
+2026-01-30,Lasalgaon Mandi,Nashik,Maharashtra,2554.62,2823.52,2689.07
+2026-01-31,Lasalgaon Mandi,Nashik,Maharashtra,2561.95,2831.63,2696.79
+2026-02-01,Lasalgaon Mandi,Nashik,Maharashtra,2519.61,2784.83,2652.22
+2026-02-02,Lasalgaon Mandi,Nashik,Maharashtra,2532.22,2798.78,2665.5
+2026-02-03,Lasalgaon Mandi,Nashik,Maharashtra,2476.12,2736.76,2606.44
+2026-02-04,Lasalgaon Mandi,Nashik,Maharashtra,2546.1,2814.12,2680.11
+2026-02-05,Lasalgaon Mandi,Nashik,Maharashtra,2480.08,2741.14,2610.61
+2026-02-06,Lasalgaon Mandi,Nashik,Maharashtra,2490.6,2752.76,2621.68
+2026-02-07,Lasalgaon Mandi,Nashik,Maharashtra,2446.92,2704.5,2575.71
+2026-02-08,Lasalgaon Mandi,Nashik,Maharashtra,2374.71,2624.67,2499.69
+2026-02-09,Lasalgaon Mandi,Nashik,Maharashtra,2366.45,2615.55,2491.0
+2026-02-10,Lasalgaon Mandi,Nashik,Maharashtra,2363.2,2611.96,2487.58
+2026-02-11,Lasalgaon Mandi,Nashik,Maharashtra,2421.14,2676.0,2548.57
+2026-02-12,Lasalgaon Mandi,Nashik,Maharashtra,2402.81,2655.73,2529.27
+2026-02-13,Lasalgaon Mandi,Nashik,Maharashtra,2470.34,2730.38,2600.36
+2026-02-14,Lasalgaon Mandi,Nashik,Maharashtra,2457.58,2716.28,2586.93
+2026-02-15,Lasalgaon Mandi,Nashik,Maharashtra,2474.65,2735.15,2604.9
+2026-02-16,Lasalgaon Mandi,Nashik,Maharashtra,2530.2,2796.54,2663.37
+2026-02-17,Lasalgaon Mandi,Nashik,Maharashtra,2559.72,2829.16,2694.44
+2026-02-18,Lasalgaon Mandi,Nashik,Maharashtra,2576.01,2847.17,2711.59
+2026-02-19,Lasalgaon Mandi,Nashik,Maharashtra,2546.03,2814.03,2680.03
+2026-02-20,Lasalgaon Mandi,Nashik,Maharashtra,2574.85,2845.89,2710.37
+2026-02-21,Lasalgaon Mandi,Nashik,Maharashtra,2621.75,2897.73,2759.74
+2026-02-22,Lasalgaon Mandi,Nashik,Maharashtra,2559.94,2829.4,2694.67
+2026-02-23,Lasalgaon Mandi,Nashik,Maharashtra,2563.72,2833.58,2698.65
+2026-02-24,Lasalgaon Mandi,Nashik,Maharashtra,2506.63,2770.49,2638.56
+2026-02-25,Lasalgaon Mandi,Nashik,Maharashtra,2432.68,2688.76,2560.72
+2026-02-26,Lasalgaon Mandi,Nashik,Maharashtra,2500.5,2763.72,2632.11
+2026-02-27,Lasalgaon Mandi,Nashik,Maharashtra,2556.92,2826.08,2691.5
+2026-02-28,Lasalgaon Mandi,Nashik,Maharashtra,2554.92,2823.86,2689.39
+2026-03-01,Lasalgaon Mandi,Nashik,Maharashtra,2567.63,2837.91,2702.77
+2026-03-02,Lasalgaon Mandi,Nashik,Maharashtra,2552.57,2821.27,2686.92
+2026-03-03,Lasalgaon Mandi,Nashik,Maharashtra,2554.61,2823.51,2689.06
+2026-03-04,Lasalgaon Mandi,Nashik,Maharashtra,2514.3,2778.96,2646.63
+2026-03-05,Lasalgaon Mandi,Nashik,Maharashtra,2584.74,2856.82,2720.78
+2026-03-06,Lasalgaon Mandi,Nashik,Maharashtra,2614.96,2890.22,2752.59
+2026-03-07,Lasalgaon Mandi,Nashik,Maharashtra,2599.71,2873.37,2736.54
+2026-03-08,Lasalgaon Mandi,Nashik,Maharashtra,2526.15,2792.07,2659.11
+2026-03-09,Lasalgaon Mandi,Nashik,Maharashtra,2543.61,2811.35,2677.48
+2026-03-10,Lasalgaon Mandi,Nashik,Maharashtra,2553.3,2822.06,2687.68
+2026-03-11,Lasalgaon Mandi,Nashik,Maharashtra,2565.37,2835.41,2700.39
+2026-03-12,Lasalgaon Mandi,Nashik,Maharashtra,2635.54,2912.96,2774.25
+2026-03-13,Lasalgaon Mandi,Nashik,Maharashtra,2610.16,2884.92,2747.54
+2026-03-14,Lasalgaon Mandi,Nashik,Maharashtra,2656.62,2936.26,2796.44
+2026-03-15,Lasalgaon Mandi,Nashik,Maharashtra,2686.64,2969.44,2828.04
+2026-03-16,Lasalgaon Mandi,Nashik,Maharashtra,2684.11,2966.65,2825.38
+2026-03-17,Lasalgaon Mandi,Nashik,Maharashtra,2760.26,3050.82,2905.54
+2026-03-18,Lasalgaon Mandi,Nashik,Maharashtra,2773.35,3065.29,2919.32
+2026-03-19,Lasalgaon Mandi,Nashik,Maharashtra,2769.64,3061.18,2915.41
+2026-03-20,Lasalgaon Mandi,Nashik,Maharashtra,2791.95,3085.83,2938.89
+2026-03-21,Lasalgaon Mandi,Nashik,Maharashtra,2780.35,3073.01,2926.68
+2026-03-22,Lasalgaon Mandi,Nashik,Maharashtra,2827.62,3125.26,2976.44
+2026-03-23,Lasalgaon Mandi,Nashik,Maharashtra,2848.33,3148.15,2998.24
+2026-03-24,Lasalgaon Mandi,Nashik,Maharashtra,2781.6,3074.4,2928.0
+2026-03-25,Lasalgaon Mandi,Nashik,Maharashtra,2742.05,3030.69,2886.37
+2026-03-26,Lasalgaon Mandi,Nashik,Maharashtra,2823.74,3120.98,2972.36
+2026-03-27,Lasalgaon Mandi,Nashik,Maharashtra,2771.25,3062.97,2917.11
+2026-03-28,Lasalgaon Mandi,Nashik,Maharashtra,2827.06,3124.64,2975.85
+2026-03-29,Lasalgaon Mandi,Nashik,Maharashtra,2804.38,3099.58,2951.98
+2026-03-30,Lasalgaon Mandi,Nashik,Maharashtra,2746.36,3035.46,2890.91
+2026-03-31,Lasalgaon Mandi,Nashik,Maharashtra,2800.51,3095.31,2947.91
+2026-04-01,Lasalgaon Mandi,Nashik,Maharashtra,2743.43,3032.21,2887.82
+2026-04-02,Lasalgaon Mandi,Nashik,Maharashtra,2709.75,2994.99,2852.37
+2026-04-03,Lasalgaon Mandi,Nashik,Maharashtra,2643.53,2921.79,2782.66
+2026-04-04,Lasalgaon Mandi,Nashik,Maharashtra,2639.75,2917.61,2778.68
+2026-04-05,Lasalgaon Mandi,Nashik,Maharashtra,2698.95,2983.05,2841.0
+2026-04-06,Lasalgaon Mandi,Nashik,Maharashtra,2723.55,3010.25,2866.9
+2026-04-07,Lasalgaon Mandi,Nashik,Maharashtra,2702.32,2986.78,2844.55
+2026-04-08,Lasalgaon Mandi,Nashik,Maharashtra,2745.99,3035.05,2890.52
+2026-04-09,Lasalgaon Mandi,Nashik,Maharashtra,2819.95,3116.79,2968.37
+2026-04-10,Lasalgaon Mandi,Nashik,Maharashtra,2810.43,3106.27,2958.35
+2026-04-11,Lasalgaon Mandi,Nashik,Maharashtra,2891.39,3195.75,3043.57
+2026-04-12,Lasalgaon Mandi,Nashik,Maharashtra,2861.8,3163.04,3012.42
+2026-04-13,Lasalgaon Mandi,Nashik,Maharashtra,2794.09,3088.21,2941.15
+2026-04-14,Lasalgaon Mandi,Nashik,Maharashtra,2862.72,3164.06,3013.39
+2026-04-15,Lasalgaon Mandi,Nashik,Maharashtra,2881.0,3184.26,3032.63
+2026-04-16,Lasalgaon Mandi,Nashik,Maharashtra,2845.02,3144.5,2994.76
+2026-04-17,Lasalgaon Mandi,Nashik,Maharashtra,2915.13,3221.99,3068.56
+2026-04-18,Lasalgaon Mandi,Nashik,Maharashtra,2922.28,3229.88,3076.08
+2026-04-19,Lasalgaon Mandi,Nashik,Maharashtra,2842.43,3141.63,2992.03
+2026-04-20,Lasalgaon Mandi,Nashik,Maharashtra,2842.85,3142.09,2992.47
+2026-04-21,Lasalgaon Mandi,Nashik,Maharashtra,2922.11,3229.71,3075.91
+2026-04-22,Lasalgaon Mandi,Nashik,Maharashtra,2912.24,3218.8,3065.52
+2026-04-23,Lasalgaon Mandi,Nashik,Maharashtra,2995.94,3311.3,3153.62
+2026-04-24,Lasalgaon Mandi,Nashik,Maharashtra,2971.15,3283.91,3127.53
+2026-04-25,Lasalgaon Mandi,Nashik,Maharashtra,2937.93,3247.19,3092.56
+2026-04-26,Lasalgaon Mandi,Nashik,Maharashtra,2892.42,3196.88,3044.65
+2026-04-27,Lasalgaon Mandi,Nashik,Maharashtra,2954.34,3265.32,3109.83
+2026-04-28,Lasalgaon Mandi,Nashik,Maharashtra,2943.51,3253.35,3098.43
+2026-04-29,Lasalgaon Mandi,Nashik,Maharashtra,3018.65,3336.41,3177.53
+2026-04-30,Lasalgaon Mandi,Nashik,Maharashtra,3048.33,3369.21,3208.77
+2026-05-01,Lasalgaon Mandi,Nashik,Maharashtra,2974.73,3287.85,3131.29
+2026-05-02,Lasalgaon Mandi,Nashik,Maharashtra,2937.68,3246.92,3092.3
+2026-05-03,Lasalgaon Mandi,Nashik,Maharashtra,3022.23,3340.35,3181.29
+2026-05-04,Lasalgaon Mandi,Nashik,Maharashtra,3106.55,3433.55,3270.05
+2026-05-05,Lasalgaon Mandi,Nashik,Maharashtra,3024.83,3343.23,3184.03
+2026-05-06,Lasalgaon Mandi,Nashik,Maharashtra,3059.1,3381.12,3220.11
+2026-05-07,Lasalgaon Mandi,Nashik,Maharashtra,3141.96,3472.7,3307.33
+2026-05-08,Lasalgaon Mandi,Nashik,Maharashtra,3091.41,3416.83,3254.12
+2026-05-09,Lasalgaon Mandi,Nashik,Maharashtra,3123.95,3452.79,3288.37
+2026-05-10,Lasalgaon Mandi,Nashik,Maharashtra,3213.73,3552.01,3382.87
+2026-05-11,Lasalgaon Mandi,Nashik,Maharashtra,3198.51,3535.19,3366.85
+2026-05-12,Lasalgaon Mandi,Nashik,Maharashtra,3257.81,3600.73,3429.27
+2026-05-13,Lasalgaon Mandi,Nashik,Maharashtra,3296.07,3643.03,3469.55
+2026-05-14,Lasalgaon Mandi,Nashik,Maharashtra,3225.34,3564.84,3395.09
+2026-05-15,Lasalgaon Mandi,Nashik,Maharashtra,3251.31,3593.55,3422.43
+2026-05-16,Lasalgaon Mandi,Nashik,Maharashtra,3252.62,3595.0,3423.81
+2026-05-17,Lasalgaon Mandi,Nashik,Maharashtra,3344.58,3696.64,3520.61
+2026-05-18,Lasalgaon Mandi,Nashik,Maharashtra,3385.3,3741.64,3563.47
+2026-05-19,Lasalgaon Mandi,Nashik,Maharashtra,3297.06,3644.12,3470.59
+2026-05-20,Lasalgaon Mandi,Nashik,Maharashtra,3383.82,3740.02,3561.92
+2026-05-21,Lasalgaon Mandi,Nashik,Maharashtra,3322.17,3671.87,3497.02
+2026-05-22,Lasalgaon Mandi,Nashik,Maharashtra,3386.0,3742.42,3564.21
+2026-05-23,Lasalgaon Mandi,Nashik,Maharashtra,3391.5,3748.5,3570.0
+2026-05-24,Lasalgaon Mandi,Nashik,Maharashtra,3411.57,3770.69,3591.13
+2026-05-25,Lasalgaon Mandi,Nashik,Maharashtra,3312.1,3660.74,3486.42
+2026-05-26,Lasalgaon Mandi,Nashik,Maharashtra,3219.44,3558.32,3388.88
+2026-05-27,Lasalgaon Mandi,Nashik,Maharashtra,3299.39,3646.69,3473.04
+2026-05-28,Lasalgaon Mandi,Nashik,Maharashtra,3348.29,3700.75,3524.52
+2026-05-29,Lasalgaon Mandi,Nashik,Maharashtra,3351.76,3704.58,3528.17
+2026-05-30,Lasalgaon Mandi,Nashik,Maharashtra,3279.28,3624.46,3451.87
+2026-05-31,Lasalgaon Mandi,Nashik,Maharashtra,3287.64,3633.7,3460.67
+2026-06-01,Lasalgaon Mandi,Nashik,Maharashtra,3249.51,3591.57,3420.54
+2026-06-02,Lasalgaon Mandi,Nashik,Maharashtra,3194.71,3530.99,3362.85
+2026-06-03,Lasalgaon Mandi,Nashik,Maharashtra,3197.74,3534.34,3366.04
+2026-06-04,Lasalgaon Mandi,Nashik,Maharashtra,3198.58,3535.28,3366.93
+2026-06-05,Lasalgaon Mandi,Nashik,Maharashtra,3151.57,3483.31,3317.44
+2026-06-06,Lasalgaon Mandi,Nashik,Maharashtra,3066.34,3389.12,3227.73
+2026-06-07,Lasalgaon Mandi,Nashik,Maharashtra,3007.67,3324.27,3165.97
+2026-06-08,Lasalgaon Mandi,Nashik,Maharashtra,2998.78,3314.44,3156.61
+2026-06-09,Lasalgaon Mandi,Nashik,Maharashtra,2957.72,3269.06,3113.39
+2026-06-10,Lasalgaon Mandi,Nashik,Maharashtra,2988.38,3302.94,3145.66
+2026-06-11,Lasalgaon Mandi,Nashik,Maharashtra,2977.12,3290.5,3133.81
+2026-06-12,Lasalgaon Mandi,Nashik,Maharashtra,3033.76,3353.1,3193.43
+2026-06-13,Lasalgaon Mandi,Nashik,Maharashtra,3047.29,3368.05,3207.67
+2026-06-14,Lasalgaon Mandi,Nashik,Maharashtra,3104.48,3431.26,3267.87
+2026-06-15,Lasalgaon Mandi,Nashik,Maharashtra,3145.17,3476.25,3310.71
+2026-06-16,Lasalgaon Mandi,Nashik,Maharashtra,3134.6,3464.56,3299.58
+2026-06-17,Lasalgaon Mandi,Nashik,Maharashtra,3059.13,3381.15,3220.14
+2026-06-18,Lasalgaon Mandi,Nashik,Maharashtra,3003.94,3320.14,3162.04
+2026-06-19,Lasalgaon Mandi,Nashik,Maharashtra,3053.72,3375.16,3214.44
+2026-06-20,Lasalgaon Mandi,Nashik,Maharashtra,2984.06,3298.18,3141.12
+2026-06-21,Lasalgaon Mandi,Nashik,Maharashtra,3061.88,3384.18,3223.03
+2026-06-22,Lasalgaon Mandi,Nashik,Maharashtra,2990.4,3305.18,3147.79
+2026-06-23,Lasalgaon Mandi,Nashik,Maharashtra,2982.29,3296.21,3139.25
+2026-06-24,Lasalgaon Mandi,Nashik,Maharashtra,2999.03,3314.71,3156.87
+2026-06-25,Lasalgaon Mandi,Nashik,Maharashtra,2934.56,3243.46,3089.01
+2026-06-26,Lasalgaon Mandi,Nashik,Maharashtra,2998.28,3313.88,3156.08
+2026-06-27,Lasalgaon Mandi,Nashik,Maharashtra,3061.56,3383.82,3222.69
+2026-06-28,Lasalgaon Mandi,Nashik,Maharashtra,3134.21,3464.13,3299.17
+2026-06-29,Lasalgaon Mandi,Nashik,Maharashtra,3093.16,3418.76,3255.96
+2026-06-30,Lasalgaon Mandi,Nashik,Maharashtra,3155.03,3487.13,3321.08
+2026-07-01,Lasalgaon Mandi,Nashik,Maharashtra,3186.7,3522.14,3354.42
+2026-07-02,Lasalgaon Mandi,Nashik,Maharashtra,3265.09,3608.79,3436.94
+2026-07-03,Lasalgaon Mandi,Nashik,Maharashtra,3228.39,3568.22,3398.3
+2026-07-04,Lasalgaon Mandi,Nashik,Maharashtra,3316.43,3665.53,3490.98
+2026-07-05,Lasalgaon Mandi,Nashik,Maharashtra,3413.33,3772.63,3592.98
+2026-07-06,Lasalgaon Mandi,Nashik,Maharashtra,3421.05,3781.17,3601.11
+2026-07-07,Lasalgaon Mandi,Nashik,Maharashtra,3437.95,3799.85,3618.9
+2026-07-08,Lasalgaon Mandi,Nashik,Maharashtra,3353.53,3706.53,3530.03
+2026-07-09,Lasalgaon Mandi,Nashik,Maharashtra,3374.47,3729.67,3552.07
+2026-07-10,Lasalgaon Mandi,Nashik,Maharashtra,3387.93,3744.55,3566.24
+2026-07-11,Lasalgaon Mandi,Nashik,Maharashtra,3408.66,3767.46,3588.06
+2026-07-12,Lasalgaon Mandi,Nashik,Maharashtra,3443.32,3805.78,3624.55
+2026-07-13,Lasalgaon Mandi,Nashik,Maharashtra,3463.5,3828.08,3645.79
+2026-07-14,Lasalgaon Mandi,Nashik,Maharashtra,3426.47,3787.15,3606.81
+2026-07-15,Lasalgaon Mandi,Nashik,Maharashtra,3399.22,3757.04,3578.13
+2026-07-16,Lasalgaon Mandi,Nashik,Maharashtra,3434.77,3796.33,3615.55
+2026-07-17,Lasalgaon Mandi,Nashik,Maharashtra,3461.37,3825.73,3643.55
+2026-07-18,Lasalgaon Mandi,Nashik,Maharashtra,3427.33,3788.11,3607.72
+2026-07-19,Lasalgaon Mandi,Nashik,Maharashtra,3349.7,3702.3,3526.0
+2026-07-20,Lasalgaon Mandi,Nashik,Maharashtra,3296.76,3643.78,3470.27
+2026-07-21,Lasalgaon Mandi,Nashik,Maharashtra,3250.67,3592.85,3421.76
+2026-07-22,Lasalgaon Mandi,Nashik,Maharashtra,3337.16,3688.44,3512.8
+2026-07-23,Lasalgaon Mandi,Nashik,Maharashtra,3287.26,3633.28,3460.27
+2026-07-24,Lasalgaon Mandi,Nashik,Maharashtra,3361.95,3715.83,3538.89
+2026-07-25,Lasalgaon Mandi,Nashik,Maharashtra,3381.58,3737.54,3559.56
+2026-07-26,Lasalgaon Mandi,Nashik,Maharashtra,3358.06,3711.54,3534.8
+2026-07-27,Lasalgaon Mandi,Nashik,Maharashtra,3368.42,3723.0,3545.71
+2026-07-28,Lasalgaon Mandi,Nashik,Maharashtra,3364.76,3718.94,3541.85
+2026-07-29,Lasalgaon Mandi,Nashik,Maharashtra,3355.8,3709.04,3532.42
+2026-07-30,Lasalgaon Mandi,Nashik,Maharashtra,3303.15,3650.85,3477.0
+2026-07-31,Lasalgaon Mandi,Nashik,Maharashtra,3365.5,3719.76,3542.63
+2026-08-01,Lasalgaon Mandi,Nashik,Maharashtra,3305.28,3653.2,3479.24
+2026-08-02,Lasalgaon Mandi,Nashik,Maharashtra,3370.61,3725.41,3548.01
+2026-08-03,Lasalgaon Mandi,Nashik,Maharashtra,3332.36,3683.14,3507.75
+2026-08-04,Lasalgaon Mandi,Nashik,Maharashtra,3390.9,3747.84,3569.37
+2026-08-05,Lasalgaon Mandi,Nashik,Maharashtra,3457.9,3821.88,3639.89
+2026-08-06,Lasalgaon Mandi,Nashik,Maharashtra,3385.06,3741.38,3563.22
+2026-08-07,Lasalgaon Mandi,Nashik,Maharashtra,3342.64,3694.5,3518.57
+2026-08-08,Lasalgaon Mandi,Nashik,Maharashtra,3398.54,3756.28,3577.41
+2026-08-09,Lasalgaon Mandi,Nashik,Maharashtra,3347.4,3699.76,3523.58
+2026-08-10,Lasalgaon Mandi,Nashik,Maharashtra,3407.51,3766.19,3586.85
+2026-08-11,Lasalgaon Mandi,Nashik,Maharashtra,3504.69,3873.61,3689.15
+2026-08-12,Lasalgaon Mandi,Nashik,Maharashtra,3458.78,3822.86,3640.82
+2026-08-13,Lasalgaon Mandi,Nashik,Maharashtra,3371.12,3725.98,3548.55
+2026-08-14,Lasalgaon Mandi,Nashik,Maharashtra,3326.33,3676.47,3501.4
+2026-08-15,Lasalgaon Mandi,Nashik,Maharashtra,3425.46,3786.04,3605.75
+2026-08-16,Lasalgaon Mandi,Nashik,Maharashtra,3473.52,3839.16,3656.34
+2026-08-17,Lasalgaon Mandi,Nashik,Maharashtra,3433.71,3795.15,3614.43
+2026-08-18,Lasalgaon Mandi,Nashik,Maharashtra,3377.37,3732.89,3555.13
+2026-08-19,Lasalgaon Mandi,Nashik,Maharashtra,3283.28,3628.88,3456.08
+2026-08-20,Lasalgaon Mandi,Nashik,Maharashtra,3368.06,3722.6,3545.33
+2026-08-21,Lasalgaon Mandi,Nashik,Maharashtra,3385.67,3742.05,3563.86
+2026-08-22,Lasalgaon Mandi,Nashik,Maharashtra,3448.76,3811.78,3630.27
+2026-08-23,Lasalgaon Mandi,Nashik,Maharashtra,3504.48,3873.38,3688.93
+2026-08-24,Lasalgaon Mandi,Nashik,Maharashtra,3506.11,3875.17,3690.64
+2026-08-25,Lasalgaon Mandi,Nashik,Maharashtra,3564.25,3939.43,3751.84
+2026-08-26,Lasalgaon Mandi,Nashik,Maharashtra,3478.4,3844.54,3661.47
+2026-08-27,Lasalgaon Mandi,Nashik,Maharashtra,3481.1,3847.54,3664.32
+2026-08-28,Lasalgaon Mandi,Nashik,Maharashtra,3506.87,3876.01,3691.44
+2026-08-29,Lasalgaon Mandi,Nashik,Maharashtra,3608.76,3988.63,3798.7
+2026-08-30,Lasalgaon Mandi,Nashik,Maharashtra,3610.09,3990.11,3800.1
+2026-08-31,Lasalgaon Mandi,Nashik,Maharashtra,3559.92,3934.64,3747.28
+2026-09-01,Lasalgaon Mandi,Nashik,Maharashtra,3539.43,3912.01,3725.72
+2026-09-02,Lasalgaon Mandi,Nashik,Maharashtra,3629.57,4011.63,3820.6
+2026-09-03,Lasalgaon Mandi,Nashik,Maharashtra,3654.66,4039.36,3847.01
+2026-09-04,Lasalgaon Mandi,Nashik,Maharashtra,3713.82,4104.74,3909.28
+2026-09-05,Lasalgaon Mandi,Nashik,Maharashtra,3644.92,4028.6,3836.76
+2026-09-06,Lasalgaon Mandi,Nashik,Maharashtra,3717.57,4108.89,3913.23
+2026-09-07,Lasalgaon Mandi,Nashik,Maharashtra,3684.44,4072.28,3878.36
+2026-09-08,Lasalgaon Mandi,Nashik,Maharashtra,3739.19,4132.79,3935.99
+2026-09-09,Lasalgaon Mandi,Nashik,Maharashtra,3685.19,4073.11,3879.15
+2026-09-10,Lasalgaon Mandi,Nashik,Maharashtra,3786.62,4185.22,3985.92
+2026-09-11,Lasalgaon Mandi,Nashik,Maharashtra,3720.48,4112.1,3916.29
+2026-09-12,Lasalgaon Mandi,Nashik,Maharashtra,3675.85,4062.79,3869.32
+2026-09-13,Lasalgaon Mandi,Nashik,Maharashtra,3673.32,4059.98,3866.65
+2026-09-14,Lasalgaon Mandi,Nashik,Maharashtra,3571.95,3947.95,3759.95
+2025-09-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4275.48,4725.54,4500.51
+2025-09-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4159.47,4597.31,4378.39
+2025-09-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4215.78,4659.54,4437.66
+2025-09-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4164.34,4602.7,4383.52
+2025-09-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4108.68,4541.18,4324.93
+2025-09-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4134.16,4569.34,4351.75
+2025-09-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4021.73,4445.07,4233.4
+2025-09-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4078.67,4508.01,4293.34
+2025-09-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4046.82,4472.8,4259.81
+2025-09-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4129.26,4563.92,4346.59
+2025-09-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4080.32,4509.82,4295.07
+2025-09-26,Mattuthavani Mandi,Madurai,Tamil Nadu,3982.59,4401.81,4192.2
+2025-09-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4047.97,4474.07,4261.02
+2025-09-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4158.95,4596.73,4377.84
+2025-09-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4208.97,4652.03,4430.5
+2025-09-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4243.04,4689.68,4466.36
+2025-10-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4186.98,4627.72,4407.35
+2025-10-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4273.78,4723.66,4498.72
+2025-10-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4359.92,4818.86,4589.39
+2025-10-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4271.42,4721.04,4496.23
+2025-10-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4306.26,4759.56,4532.91
+2025-10-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4272.68,4722.44,4497.56
+2025-10-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4194.95,4636.53,4415.74
+2025-10-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4260.49,4708.97,4484.73
+2025-10-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4370.6,4830.66,4600.63
+2025-10-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4451.82,4920.44,4686.13
+2025-10-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4327.2,4782.7,4554.95
+2025-10-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4235.37,4681.19,4458.28
+2025-10-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4317.29,4771.75,4544.52
+2025-10-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4294.45,4746.49,4520.47
+2025-10-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4238.07,4684.19,4461.13
+2025-10-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4143.38,4579.52,4361.45
+2025-10-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4122.26,4556.18,4339.22
+2025-10-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4140.95,4576.85,4358.9
+2025-10-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4169.63,4608.53,4389.08
+2025-10-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4208.4,4651.39,4429.9
+2025-10-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4210.75,4653.99,4432.37
+2025-10-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4109.02,4541.54,4325.28
+2025-10-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4089.11,4519.55,4304.33
+2025-10-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4061.89,4489.45,4275.67
+2025-10-25,Mattuthavani Mandi,Madurai,Tamil Nadu,3979.18,4398.04,4188.61
+2025-10-26,Mattuthavani Mandi,Madurai,Tamil Nadu,3876.31,4284.35,4080.33
+2025-10-27,Mattuthavani Mandi,Madurai,Tamil Nadu,3851.78,4257.24,4054.51
+2025-10-28,Mattuthavani Mandi,Madurai,Tamil Nadu,3915.83,4328.03,4121.93
+2025-10-29,Mattuthavani Mandi,Madurai,Tamil Nadu,3947.37,4362.89,4155.13
+2025-10-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4005.46,4427.08,4216.27
+2025-10-31,Mattuthavani Mandi,Madurai,Tamil Nadu,4033.29,4457.85,4245.57
+2025-11-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4004.0,4425.48,4214.74
+2025-11-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4082.82,4512.6,4297.71
+2025-11-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4158.21,4595.91,4377.06
+2025-11-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4258.81,4707.11,4482.96
+2025-11-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4133.63,4568.75,4351.19
+2025-11-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4143.35,4579.49,4361.42
+2025-11-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4147.22,4583.78,4365.5
+2025-11-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4113.57,4546.57,4330.07
+2025-11-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4179.23,4619.15,4399.19
+2025-11-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4172.69,4611.91,4392.3
+2025-11-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4158.39,4596.11,4377.25
+2025-11-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4241.11,4687.55,4464.33
+2025-11-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4275.81,4725.89,4500.85
+2025-11-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4202.04,4644.36,4423.2
+2025-11-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4117.04,4550.42,4333.73
+2025-11-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4190.17,4631.25,4410.71
+2025-11-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4172.22,4611.4,4391.81
+2025-11-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4226.54,4671.44,4448.99
+2025-11-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4205.04,4647.68,4426.36
+2025-11-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4283.31,4734.19,4508.75
+2025-11-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4198.64,4640.6,4419.62
+2025-11-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4183.29,4623.63,4403.46
+2025-11-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4285.13,4736.19,4510.66
+2025-11-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4195.41,4637.03,4416.22
+2025-11-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4232.72,4678.28,4455.5
+2025-11-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4217.95,4661.95,4439.95
+2025-11-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4134.17,4569.35,4351.76
+2025-11-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4143.17,4579.29,4361.23
+2025-11-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4125.9,4560.2,4343.05
+2025-11-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4161.95,4600.05,4381.0
+2025-12-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4061.8,4489.36,4275.58
+2025-12-02,Mattuthavani Mandi,Madurai,Tamil Nadu,3956.79,4373.29,4165.04
+2025-12-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4048.29,4474.43,4261.36
+2025-12-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4054.04,4480.78,4267.41
+2025-12-05,Mattuthavani Mandi,Madurai,Tamil Nadu,3993.59,4413.97,4203.78
+2025-12-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4106.83,4539.13,4322.98
+2025-12-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4027.36,4451.3,4239.33
+2025-12-08,Mattuthavani Mandi,Madurai,Tamil Nadu,3921.12,4333.88,4127.5
+2025-12-09,Mattuthavani Mandi,Madurai,Tamil Nadu,3949.87,4365.65,4157.76
+2025-12-10,Mattuthavani Mandi,Madurai,Tamil Nadu,3951.37,4367.31,4159.34
+2025-12-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4009.18,4431.2,4220.19
+2025-12-12,Mattuthavani Mandi,Madurai,Tamil Nadu,3937.42,4351.88,4144.65
+2025-12-13,Mattuthavani Mandi,Madurai,Tamil Nadu,3977.25,4395.91,4186.58
+2025-12-14,Mattuthavani Mandi,Madurai,Tamil Nadu,3878.88,4287.18,4083.03
+2025-12-15,Mattuthavani Mandi,Madurai,Tamil Nadu,3948.88,4364.56,4156.72
+2025-12-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4056.95,4483.99,4270.47
+2025-12-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4010.11,4432.23,4221.17
+2025-12-18,Mattuthavani Mandi,Madurai,Tamil Nadu,3942.35,4357.33,4149.84
+2025-12-19,Mattuthavani Mandi,Madurai,Tamil Nadu,3846.71,4251.63,4049.17
+2025-12-20,Mattuthavani Mandi,Madurai,Tamil Nadu,3912.04,4323.84,4117.94
+2025-12-21,Mattuthavani Mandi,Madurai,Tamil Nadu,3830.58,4233.8,4032.19
+2025-12-22,Mattuthavani Mandi,Madurai,Tamil Nadu,3930.18,4343.88,4137.03
+2025-12-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4013.36,4435.82,4224.59
+2025-12-24,Mattuthavani Mandi,Madurai,Tamil Nadu,3941.87,4356.81,4149.34
+2025-12-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4012.06,4434.38,4223.22
+2025-12-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4056.16,4483.12,4269.64
+2025-12-27,Mattuthavani Mandi,Madurai,Tamil Nadu,3979.94,4398.88,4189.41
+2025-12-28,Mattuthavani Mandi,Madurai,Tamil Nadu,3898.15,4308.49,4103.32
+2025-12-29,Mattuthavani Mandi,Madurai,Tamil Nadu,3945.01,4360.27,4152.64
+2025-12-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4053.93,4480.65,4267.29
+2025-12-31,Mattuthavani Mandi,Madurai,Tamil Nadu,3950.58,4366.44,4158.51
+2026-01-01,Mattuthavani Mandi,Madurai,Tamil Nadu,3899.25,4309.69,4104.47
+2026-01-02,Mattuthavani Mandi,Madurai,Tamil Nadu,3949.5,4365.24,4157.37
+2026-01-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4058.68,4485.91,4272.3
+2026-01-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4149.24,4586.0,4367.62
+2026-01-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4172.17,4611.35,4391.76
+2026-01-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4162.79,4600.97,4381.88
+2026-01-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4262.58,4711.28,4486.93
+2026-01-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4157.3,4594.91,4376.1
+2026-01-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4234.54,4680.28,4457.41
+2026-01-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4233.85,4679.51,4456.68
+2026-01-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4167.08,4605.72,4386.4
+2026-01-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4089.09,4519.52,4304.3
+2026-01-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4182.87,4623.17,4403.02
+2026-01-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4256.52,4704.58,4480.55
+2026-01-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4308.34,4761.84,4535.09
+2026-01-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4217.34,4661.27,4439.3
+2026-01-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4281.42,4732.1,4506.76
+2026-01-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4297.02,4749.34,4523.18
+2026-01-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4330.34,4786.16,4558.25
+2026-01-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4234.27,4679.99,4457.13
+2026-01-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4241.97,4688.49,4465.23
+2026-01-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4203.58,4646.06,4424.82
+2026-01-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4317.12,4771.56,4544.34
+2026-01-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4383.95,4845.41,4614.68
+2026-01-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4452.96,4921.7,4687.33
+2026-01-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4478.33,4949.73,4714.03
+2026-01-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4447.24,4915.38,4681.31
+2026-01-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4563.74,5044.14,4803.94
+2026-01-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4496.12,4969.4,4732.76
+2026-01-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4518.77,4994.43,4756.6
+2026-01-31,Mattuthavani Mandi,Madurai,Tamil Nadu,4566.82,5047.54,4807.18
+2026-02-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4698.03,5192.55,4945.29
+2026-02-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4789.59,5293.75,5041.67
+2026-02-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4659.46,5149.92,4904.69
+2026-02-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4721.55,5218.55,4970.05
+2026-02-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4765.93,5267.61,5016.77
+2026-02-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4740.54,5239.54,4990.04
+2026-02-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4674.53,5166.59,4920.56
+2026-02-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4660.85,5151.47,4906.16
+2026-02-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4800.56,5305.88,5053.22
+2026-02-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4668.28,5159.68,4913.98
+2026-02-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4699.68,5194.38,4947.03
+2026-02-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4606.05,5090.89,4848.47
+2026-02-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4502.57,4976.53,4739.55
+2026-02-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4526.89,5003.41,4765.15
+2026-02-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4581.56,5063.82,4822.69
+2026-02-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4581.84,5064.14,4822.99
+2026-02-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4684.92,5178.06,4931.49
+2026-02-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4790.7,5294.98,5042.84
+2026-02-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4665.86,5157.0,4911.43
+2026-02-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4794.18,5298.84,5046.51
+2026-02-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4732.12,5230.24,4981.18
+2026-02-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4848.36,5358.72,5103.54
+2026-02-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4912.52,5429.62,5171.07
+2026-02-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4816.36,5323.34,5069.85
+2026-02-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4926.6,5445.18,5185.89
+2026-02-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4954.99,5476.57,5215.78
+2026-02-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4945.42,5466.0,5205.71
+2026-02-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4828.86,5337.16,5083.01
+2026-03-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4787.94,5291.94,5039.94
+2026-03-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4922.88,5441.08,5181.98
+2026-03-03,Mattuthavani Mandi,Madurai,Tamil Nadu,5029.83,5559.29,5294.56
+2026-03-04,Mattuthavani Mandi,Madurai,Tamil Nadu,5028.58,5557.9,5293.24
+2026-03-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4887.13,5401.57,5144.35
+2026-03-06,Mattuthavani Mandi,Madurai,Tamil Nadu,5019.29,5547.63,5283.46
+2026-03-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4910.71,5427.63,5169.17
+2026-03-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4797.36,5302.34,5049.85
+2026-03-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4796.42,5301.3,5048.86
+2026-03-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4834.48,5343.38,5088.93
+2026-03-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4909.32,5426.1,5167.71
+2026-03-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4812.84,5319.46,5066.15
+2026-03-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4919.74,5437.6,5178.67
+2026-03-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4839.94,5349.4,5094.67
+2026-03-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4949.28,5470.26,5209.77
+2026-03-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4891.72,5406.64,5149.18
+2026-03-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4893.94,5409.1,5151.52
+2026-03-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4856.48,5367.68,5112.08
+2026-03-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4927.7,5446.4,5187.05
+2026-03-20,Mattuthavani Mandi,Madurai,Tamil Nadu,5016.16,5544.18,5280.17
+2026-03-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4971.46,5494.78,5233.12
+2026-03-22,Mattuthavani Mandi,Madurai,Tamil Nadu,5021.01,5549.53,5285.27
+2026-03-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4945.57,5466.15,5205.86
+2026-03-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4858.84,5370.3,5114.57
+2026-03-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4990.96,5516.32,5253.64
+2026-03-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4863.74,5375.72,5119.73
+2026-03-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4826.66,5334.72,5080.69
+2026-03-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4701.6,5196.5,4949.05
+2026-03-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4786.93,5290.81,5038.87
+2026-03-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4880.14,5393.84,5136.99
+2026-03-31,Mattuthavani Mandi,Madurai,Tamil Nadu,4786.02,5289.82,5037.92
+2026-04-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4724.82,5222.18,4973.5
+2026-04-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4598.86,5082.96,4840.91
+2026-04-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4518.43,4994.05,4756.24
+2026-04-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4482.32,4954.14,4718.23
+2026-04-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4407.67,4871.63,4639.65
+2026-04-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4333.18,4789.3,4561.24
+2026-04-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4279.62,4730.1,4504.86
+2026-04-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4289.15,4740.63,4514.89
+2026-04-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4369.04,4828.94,4598.99
+2026-04-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4357.85,4816.57,4587.21
+2026-04-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4449.36,4917.72,4683.54
+2026-04-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4559.55,5039.51,4799.53
+2026-04-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4508.19,4982.73,4745.46
+2026-04-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4375.84,4836.46,4606.15
+2026-04-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4337.14,4793.68,4565.41
+2026-04-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4256.19,4704.21,4480.2
+2026-04-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4194.73,4636.29,4415.51
+2026-04-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4132.02,4566.96,4349.49
+2026-04-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4062.27,4489.87,4276.07
+2026-04-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4055.26,4482.12,4268.69
+2026-04-21,Mattuthavani Mandi,Madurai,Tamil Nadu,3982.61,4401.83,4192.22
+2026-04-22,Mattuthavani Mandi,Madurai,Tamil Nadu,3937.93,4352.45,4145.19
+2026-04-23,Mattuthavani Mandi,Madurai,Tamil Nadu,3969.6,4387.46,4178.53
+2026-04-24,Mattuthavani Mandi,Madurai,Tamil Nadu,3990.68,4410.76,4200.72
+2026-04-25,Mattuthavani Mandi,Madurai,Tamil Nadu,3986.44,4406.06,4196.25
+2026-04-26,Mattuthavani Mandi,Madurai,Tamil Nadu,3956.98,4373.5,4165.24
+2026-04-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4045.25,4471.07,4258.16
+2026-04-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4136.12,4571.5,4353.81
+2026-04-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4144.98,4581.3,4363.14
+2026-04-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4209.08,4652.14,4430.61
+2026-05-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4299.55,4752.13,4525.84
+2026-05-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4220.62,4664.9,4442.76
+2026-05-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4202.77,4645.17,4423.97
+2026-05-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4239.19,4685.43,4462.31
+2026-05-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4324.44,4779.64,4552.04
+2026-05-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4274.89,4724.87,4499.88
+2026-05-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4249.76,4697.1,4473.43
+2026-05-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4294.01,4746.01,4520.01
+2026-05-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4390.79,4852.97,4621.88
+2026-05-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4471.97,4942.71,4707.34
+2026-05-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4583.41,5065.87,4824.64
+2026-05-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4589.77,5072.91,4831.34
+2026-05-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4550.61,5029.63,4790.12
+2026-05-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4531.3,5008.28,4769.79
+2026-05-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4663.31,5154.19,4908.75
+2026-05-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4555.98,5035.56,4795.77
+2026-05-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4503.03,4977.03,4740.03
+2026-05-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4553.71,5033.05,4793.38
+2026-05-19,Mattuthavani Mandi,Madurai,Tamil Nadu,4517.03,4992.51,4754.77
+2026-05-20,Mattuthavani Mandi,Madurai,Tamil Nadu,4587.54,5070.44,4828.99
+2026-05-21,Mattuthavani Mandi,Madurai,Tamil Nadu,4641.36,5129.92,4885.64
+2026-05-22,Mattuthavani Mandi,Madurai,Tamil Nadu,4528.43,5005.11,4766.77
+2026-05-23,Mattuthavani Mandi,Madurai,Tamil Nadu,4599.54,5083.7,4841.62
+2026-05-24,Mattuthavani Mandi,Madurai,Tamil Nadu,4736.87,5235.49,4986.18
+2026-05-25,Mattuthavani Mandi,Madurai,Tamil Nadu,4858.96,5370.44,5114.7
+2026-05-26,Mattuthavani Mandi,Madurai,Tamil Nadu,4744.34,5243.74,4994.04
+2026-05-27,Mattuthavani Mandi,Madurai,Tamil Nadu,4773.58,5276.06,5024.82
+2026-05-28,Mattuthavani Mandi,Madurai,Tamil Nadu,4652.24,5141.96,4897.1
+2026-05-29,Mattuthavani Mandi,Madurai,Tamil Nadu,4538.27,5015.99,4777.13
+2026-05-30,Mattuthavani Mandi,Madurai,Tamil Nadu,4554.03,5033.41,4793.72
+2026-05-31,Mattuthavani Mandi,Madurai,Tamil Nadu,4652.89,5142.67,4897.78
+2026-06-01,Mattuthavani Mandi,Madurai,Tamil Nadu,4670.7,5162.36,4916.53
+2026-06-02,Mattuthavani Mandi,Madurai,Tamil Nadu,4663.25,5154.11,4908.68
+2026-06-03,Mattuthavani Mandi,Madurai,Tamil Nadu,4552.11,5031.27,4791.69
+2026-06-04,Mattuthavani Mandi,Madurai,Tamil Nadu,4585.65,5068.35,4827.0
+2026-06-05,Mattuthavani Mandi,Madurai,Tamil Nadu,4722.8,5219.94,4971.37
+2026-06-06,Mattuthavani Mandi,Madurai,Tamil Nadu,4606.02,5090.86,4848.44
+2026-06-07,Mattuthavani Mandi,Madurai,Tamil Nadu,4510.52,4985.32,4747.92
+2026-06-08,Mattuthavani Mandi,Madurai,Tamil Nadu,4600.41,5084.67,4842.54
+2026-06-09,Mattuthavani Mandi,Madurai,Tamil Nadu,4559.77,5039.75,4799.76
+2026-06-10,Mattuthavani Mandi,Madurai,Tamil Nadu,4558.13,5037.93,4798.03
+2026-06-11,Mattuthavani Mandi,Madurai,Tamil Nadu,4577.68,5059.54,4818.61
+2026-06-12,Mattuthavani Mandi,Madurai,Tamil Nadu,4704.19,5199.37,4951.78
+2026-06-13,Mattuthavani Mandi,Madurai,Tamil Nadu,4800.65,5305.99,5053.32
+2026-06-14,Mattuthavani Mandi,Madurai,Tamil Nadu,4821.07,5328.55,5074.81
+2026-06-15,Mattuthavani Mandi,Madurai,Tamil Nadu,4873.8,5386.84,5130.32
+2026-06-16,Mattuthavani Mandi,Madurai,Tamil Nadu,4746.12,5245.72,4995.92
+2026-06-17,Mattuthavani Mandi,Madurai,Tamil Nadu,4845.69,5355.77,5100.73
+2026-06-18,Mattuthavani Mandi,Madurai,Tamil Nadu,4984.73,5509.43,5247.08
+2026-06-19,Mattuthavani Mandi,Madurai,Tamil Nadu,5069.44,5603.06,5336.25
+2026-06-20,Mattuthavani Mandi,Madurai,Tamil Nadu,5203.71,5751.47,5477.59
+2026-06-21,Mattuthavani Mandi,Madurai,Tamil Nadu,5225.12,5775.14,5500.13
+2026-06-22,Mattuthavani Mandi,Madurai,Tamil Nadu,5234.65,5785.67,5510.16
+2026-06-23,Mattuthavani Mandi,Madurai,Tamil Nadu,5183.11,5728.71,5455.91
+2026-06-24,Mattuthavani Mandi,Madurai,Tamil Nadu,5259.41,5813.03,5536.22
+2026-06-25,Mattuthavani Mandi,Madurai,Tamil Nadu,5210.68,5759.18,5484.93
+2026-06-26,Mattuthavani Mandi,Madurai,Tamil Nadu,5279.54,5835.28,5557.41
+2026-06-27,Mattuthavani Mandi,Madurai,Tamil Nadu,5268.84,5823.46,5546.15
+2026-06-28,Mattuthavani Mandi,Madurai,Tamil Nadu,5364.81,5929.53,5647.17
+2026-06-29,Mattuthavani Mandi,Madurai,Tamil Nadu,5432.91,6004.79,5718.85
+2026-06-30,Mattuthavani Mandi,Madurai,Tamil Nadu,5547.66,6131.62,5839.64
+2026-07-01,Mattuthavani Mandi,Madurai,Tamil Nadu,5442.51,6015.41,5728.96
+2026-07-02,Mattuthavani Mandi,Madurai,Tamil Nadu,5290.02,5846.86,5568.44
+2026-07-03,Mattuthavani Mandi,Madurai,Tamil Nadu,5240.06,5791.64,5515.85
+2026-07-04,Mattuthavani Mandi,Madurai,Tamil Nadu,5224.5,5774.44,5499.47
+2026-07-05,Mattuthavani Mandi,Madurai,Tamil Nadu,5349.04,5912.1,5630.57
+2026-07-06,Mattuthavani Mandi,Madurai,Tamil Nadu,5391.13,5958.61,5674.87
+2026-07-07,Mattuthavani Mandi,Madurai,Tamil Nadu,5343.43,5905.89,5624.66
+2026-07-08,Mattuthavani Mandi,Madurai,Tamil Nadu,5489.82,6067.7,5778.76
+2026-07-09,Mattuthavani Mandi,Madurai,Tamil Nadu,5437.94,6010.36,5724.15
+2026-07-10,Mattuthavani Mandi,Madurai,Tamil Nadu,5452.04,6025.94,5738.99
+2026-07-11,Mattuthavani Mandi,Madurai,Tamil Nadu,5513.2,6093.54,5803.37
+2026-07-12,Mattuthavani Mandi,Madurai,Tamil Nadu,5665.1,6261.42,5963.26
+2026-07-13,Mattuthavani Mandi,Madurai,Tamil Nadu,5730.96,6334.22,6032.59
+2026-07-14,Mattuthavani Mandi,Madurai,Tamil Nadu,5785.42,6394.42,6089.92
+2026-07-15,Mattuthavani Mandi,Madurai,Tamil Nadu,5838.95,6453.57,6146.26
+2026-07-16,Mattuthavani Mandi,Madurai,Tamil Nadu,5931.33,6555.69,6243.51
+2026-07-17,Mattuthavani Mandi,Madurai,Tamil Nadu,6066.71,6705.31,6386.01
+2026-07-18,Mattuthavani Mandi,Madurai,Tamil Nadu,6064.48,6702.84,6383.66
+2026-07-19,Mattuthavani Mandi,Madurai,Tamil Nadu,6005.76,6637.94,6321.85
+2026-07-20,Mattuthavani Mandi,Madurai,Tamil Nadu,6004.28,6636.3,6320.29
+2026-07-21,Mattuthavani Mandi,Madurai,Tamil Nadu,5975.12,6604.08,6289.6
+2026-07-22,Mattuthavani Mandi,Madurai,Tamil Nadu,5844.56,6459.78,6152.17
+2026-07-23,Mattuthavani Mandi,Madurai,Tamil Nadu,5942.86,6568.42,6255.64
+2026-07-24,Mattuthavani Mandi,Madurai,Tamil Nadu,5990.99,6621.63,6306.31
+2026-07-25,Mattuthavani Mandi,Madurai,Tamil Nadu,6098.09,6739.99,6419.04
+2026-07-26,Mattuthavani Mandi,Madurai,Tamil Nadu,6160.61,6809.09,6484.85
+2026-07-27,Mattuthavani Mandi,Madurai,Tamil Nadu,6237.19,6893.73,6565.46
+2026-07-28,Mattuthavani Mandi,Madurai,Tamil Nadu,6244.38,6901.68,6573.03
+2026-07-29,Mattuthavani Mandi,Madurai,Tamil Nadu,6210.62,6864.36,6537.49
+2026-07-30,Mattuthavani Mandi,Madurai,Tamil Nadu,6151.15,6798.64,6474.9
+2026-07-31,Mattuthavani Mandi,Madurai,Tamil Nadu,6108.3,6751.28,6429.79
+2026-08-01,Mattuthavani Mandi,Madurai,Tamil Nadu,5936.9,6561.84,6249.37
+2026-08-02,Mattuthavani Mandi,Madurai,Tamil Nadu,5932.84,6557.34,6245.09
+2026-08-03,Mattuthavani Mandi,Madurai,Tamil Nadu,6107.34,6750.22,6428.78
+2026-08-04,Mattuthavani Mandi,Madurai,Tamil Nadu,6214.64,6868.82,6541.73
+2026-08-05,Mattuthavani Mandi,Madurai,Tamil Nadu,6377.8,7049.14,6713.47
+2026-08-06,Mattuthavani Mandi,Madurai,Tamil Nadu,6206.02,6859.28,6532.65
+2026-08-07,Mattuthavani Mandi,Madurai,Tamil Nadu,6306.71,6970.57,6638.64
+2026-08-08,Mattuthavani Mandi,Madurai,Tamil Nadu,6326.29,6992.21,6659.25
+2026-08-09,Mattuthavani Mandi,Madurai,Tamil Nadu,6403.04,7077.04,6740.04
+2026-08-10,Mattuthavani Mandi,Madurai,Tamil Nadu,6439.89,7117.77,6778.83
+2026-08-11,Mattuthavani Mandi,Madurai,Tamil Nadu,6340.6,7008.04,6674.32
+2026-08-12,Mattuthavani Mandi,Madurai,Tamil Nadu,6473.63,7155.07,6814.35
+2026-08-13,Mattuthavani Mandi,Madurai,Tamil Nadu,6449.1,7127.96,6788.53
+2026-08-14,Mattuthavani Mandi,Madurai,Tamil Nadu,6327.86,6993.96,6660.91
+2026-08-15,Mattuthavani Mandi,Madurai,Tamil Nadu,6466.3,7146.96,6806.63
+2026-08-16,Mattuthavani Mandi,Madurai,Tamil Nadu,6446.37,7124.93,6785.65
+2026-08-17,Mattuthavani Mandi,Madurai,Tamil Nadu,6528.86,7216.1,6872.48
+2026-08-18,Mattuthavani Mandi,Madurai,Tamil Nadu,6490.26,7173.44,6831.85
+2026-08-19,Mattuthavani Mandi,Madurai,Tamil Nadu,6344.14,7011.94,6678.04
+2026-08-20,Mattuthavani Mandi,Madurai,Tamil Nadu,6243.86,6901.1,6572.48
+2026-08-21,Mattuthavani Mandi,Madurai,Tamil Nadu,6246.5,6904.02,6575.26
+2026-08-22,Mattuthavani Mandi,Madurai,Tamil Nadu,6162.16,6810.8,6486.48
+2026-08-23,Mattuthavani Mandi,Madurai,Tamil Nadu,6093.1,6734.48,6413.79
+2026-08-24,Mattuthavani Mandi,Madurai,Tamil Nadu,6071.01,6710.07,6390.54
+2026-08-25,Mattuthavani Mandi,Madurai,Tamil Nadu,6043.12,6679.24,6361.18
+2026-08-26,Mattuthavani Mandi,Madurai,Tamil Nadu,6218.57,6873.15,6545.86
+2026-08-27,Mattuthavani Mandi,Madurai,Tamil Nadu,6190.87,6842.55,6516.71
+2026-08-28,Mattuthavani Mandi,Madurai,Tamil Nadu,6165.52,6814.52,6490.02
+2026-08-29,Mattuthavani Mandi,Madurai,Tamil Nadu,6190.94,6842.62,6516.78
+2026-08-30,Mattuthavani Mandi,Madurai,Tamil Nadu,6215.47,6869.73,6542.6
+2026-08-31,Mattuthavani Mandi,Madurai,Tamil Nadu,6051.93,6688.97,6370.45
+2026-09-01,Mattuthavani Mandi,Madurai,Tamil Nadu,6208.48,6862.0,6535.24
+2026-09-02,Mattuthavani Mandi,Madurai,Tamil Nadu,6101.26,6743.5,6422.38
+2026-09-03,Mattuthavani Mandi,Madurai,Tamil Nadu,6132.26,6777.76,6455.01
+2026-09-04,Mattuthavani Mandi,Madurai,Tamil Nadu,6139.83,6786.13,6462.98
+2026-09-05,Mattuthavani Mandi,Madurai,Tamil Nadu,6060.92,6698.92,6379.92
+2026-09-06,Mattuthavani Mandi,Madurai,Tamil Nadu,6174.73,6824.71,6499.72
+2026-09-07,Mattuthavani Mandi,Madurai,Tamil Nadu,6031.77,6666.69,6349.23
+2026-09-08,Mattuthavani Mandi,Madurai,Tamil Nadu,5951.35,6577.81,6264.58
+2026-09-09,Mattuthavani Mandi,Madurai,Tamil Nadu,5949.85,6576.15,6263.0
+2026-09-10,Mattuthavani Mandi,Madurai,Tamil Nadu,5787.48,6396.68,6092.08
+2026-09-11,Mattuthavani Mandi,Madurai,Tamil Nadu,5786.8,6395.94,6091.37
+2026-09-12,Mattuthavani Mandi,Madurai,Tamil Nadu,5862.33,6479.41,6170.87
+2026-09-13,Mattuthavani Mandi,Madurai,Tamil Nadu,5992.93,6623.77,6308.35
+2026-09-14,Mattuthavani Mandi,Madurai,Tamil Nadu,5946.58,6572.54,6259.56
+2025-09-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,4044.99,4470.77,4257.88
+2025-09-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,4097.86,4529.22,4313.54
+2025-09-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,4181.08,4621.2,4401.14
+2025-09-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,4071.02,4499.54,4285.28
+2025-09-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,4082.04,4511.72,4296.88
+2025-09-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3993.13,4413.45,4203.29
+2025-09-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3900.26,4310.82,4105.54
+2025-09-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3963.81,4381.05,4172.43
+2025-09-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3917.46,4329.82,4123.64
+2025-09-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3812.29,4213.59,4012.94
+2025-09-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3795.34,4194.84,3995.09
+2025-09-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3873.85,4281.63,4077.74
+2025-09-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3793.02,4192.28,3992.65
+2025-09-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3774.38,4171.68,3973.03
+2025-09-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3744.34,4138.48,3941.41
+2025-09-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3787.9,4186.62,3987.26
+2025-10-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3774.88,4172.24,3973.56
+2025-10-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3693.01,4081.75,3887.38
+2025-10-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3623.71,4005.15,3814.43
+2025-10-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3726.32,4118.56,3922.44
+2025-10-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3836.91,4240.79,4038.85
+2025-10-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3831.14,4234.42,4032.78
+2025-10-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3788.27,4187.03,3987.65
+2025-10-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3681.04,4068.52,3874.78
+2025-10-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3626.66,4008.42,3817.54
+2025-10-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3578.33,3954.99,3766.66
+2025-10-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3596.58,3975.16,3785.87
+2025-10-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3533.37,3905.31,3719.34
+2025-10-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3633.52,4016.0,3824.76
+2025-10-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3649.12,4033.24,3841.18
+2025-10-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3699.4,4088.82,3894.11
+2025-10-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3806.14,4206.78,4006.46
+2025-10-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3782.11,4180.23,3981.17
+2025-10-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3775.57,4172.99,3974.28
+2025-10-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3873.58,4281.32,4077.45
+2025-10-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3795.1,4194.58,3994.84
+2025-10-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3714.84,4105.88,3910.36
+2025-10-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3789.99,4188.93,3989.46
+2025-10-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3873.43,4281.15,4077.29
+2025-10-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3879.86,4288.26,4084.06
+2025-10-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3849.95,4255.21,4052.58
+2025-10-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3853.99,4259.67,4056.83
+2025-10-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3955.23,4371.57,4163.4
+2025-10-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3840.45,4244.71,4042.58
+2025-10-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3833.09,4236.57,4034.83
+2025-10-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3862.56,4269.14,4065.85
+2025-10-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3921.73,4334.55,4128.14
+2025-11-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3966.36,4383.88,4175.12
+2025-11-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3951.71,4367.67,4159.69
+2025-11-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3905.73,4316.85,4111.29
+2025-11-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3788.71,4187.53,3988.12
+2025-11-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3732.7,4125.62,3929.16
+2025-11-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3652.75,4037.25,3845.0
+2025-11-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3696.0,4085.06,3890.53
+2025-11-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3717.58,4108.9,3913.24
+2025-11-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3678.21,4065.39,3871.8
+2025-11-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3643.27,4026.77,3835.02
+2025-11-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3684.85,4072.73,3878.79
+2025-11-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3631.03,4013.25,3822.14
+2025-11-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3640.63,4023.85,3832.24
+2025-11-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3652.39,4036.85,3844.62
+2025-11-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3592.82,3971.02,3781.92
+2025-11-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3648.2,4032.22,3840.21
+2025-11-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3641.21,4024.49,3832.85
+2025-11-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3612.24,3992.48,3802.36
+2025-11-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3561.14,3936.0,3748.57
+2025-11-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3475.11,3840.91,3658.01
+2025-11-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3561.11,3935.97,3748.54
+2025-11-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3621.01,4002.17,3811.59
+2025-11-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3707.95,4098.27,3903.11
+2025-11-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3648.21,4032.23,3840.22
+2025-11-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3680.0,4067.36,3873.68
+2025-11-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3776.07,4173.55,3974.81
+2025-11-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3708.65,4099.03,3903.84
+2025-11-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3811.75,4212.99,4012.37
+2025-11-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3756.48,4151.9,3954.19
+2025-11-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3655.84,4040.66,3848.25
+2025-12-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3617.54,3998.34,3807.94
+2025-12-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3677.77,4064.91,3871.34
+2025-12-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3749.83,4144.55,3947.19
+2025-12-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3790.3,4189.28,3989.79
+2025-12-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3817.59,4219.45,4018.52
+2025-12-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3843.84,4248.46,4046.15
+2025-12-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3793.15,4192.43,3992.79
+2025-12-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3866.99,4274.05,4070.52
+2025-12-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3816.81,4218.57,4017.69
+2025-12-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3920.82,4333.54,4127.18
+2025-12-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3989.53,4409.49,4199.51
+2025-12-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3919.87,4332.49,4126.18
+2025-12-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3992.61,4412.89,4202.75
+2025-12-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3953.97,4370.17,4162.07
+2025-12-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3954.67,4370.95,4162.81
+2025-12-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3907.39,4318.69,4113.04
+2025-12-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3899.83,4310.33,4105.08
+2025-12-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3819.63,4221.69,4020.66
+2025-12-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3909.11,4320.59,4114.85
+2025-12-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3810.4,4211.5,4010.95
+2025-12-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3724.99,4117.09,3921.04
+2025-12-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3694.06,4082.9,3888.48
+2025-12-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3641.95,4025.31,3833.63
+2025-12-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3718.06,4109.44,3913.75
+2025-12-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3700.7,4090.24,3895.47
+2025-12-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3739.0,4132.58,3935.79
+2025-12-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3829.1,4232.16,4030.63
+2025-12-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3862.87,4269.49,4066.18
+2025-12-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3935.16,4349.38,4142.27
+2025-12-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,4015.98,4438.72,4227.35
+2025-12-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3926.73,4340.07,4133.4
+2026-01-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3841.45,4245.81,4043.63
+2026-01-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3951.68,4367.64,4159.66
+2026-01-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,4045.95,4471.83,4258.89
+2026-01-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3974.01,4392.33,4183.17
+2026-01-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3967.01,4384.59,4175.8
+2026-01-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,4002.23,4423.51,4212.87
+2026-01-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,4010.73,4432.91,4221.82
+2026-01-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,4125.66,4559.94,4342.8
+2026-01-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,4081.29,4510.89,4296.09
+2026-01-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,4126.32,4560.68,4343.5
+2026-01-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,4192.22,4633.5,4412.86
+2026-01-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,4261.7,4710.3,4486.0
+2026-01-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,4217.53,4661.49,4439.51
+2026-01-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,4261.36,4709.92,4485.64
+2026-01-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,4267.29,4716.47,4491.88
+2026-01-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,4149.66,4586.46,4368.06
+2026-01-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,4067.33,4495.47,4281.4
+2026-01-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,4089.38,4519.84,4304.61
+2026-01-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,4154.82,4592.18,4373.5
+2026-01-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,4158.81,4596.59,4377.7
+2026-01-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,4146.28,4582.74,4364.51
+2026-01-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,4049.82,4476.12,4262.97
+2026-01-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,4144.03,4580.25,4362.14
+2026-01-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,4124.07,4558.19,4341.13
+2026-01-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,4024.69,4448.35,4236.52
+2026-01-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,4028.03,4452.03,4240.03
+2026-01-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,4052.23,4478.79,4265.51
+2026-01-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,4172.66,4611.88,4392.27
+2026-01-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,4107.1,4539.42,4323.26
+2026-01-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,4086.56,4516.72,4301.64
+2026-01-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,4055.39,4482.27,4268.83
+2026-02-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,4017.64,4440.54,4229.09
+2026-02-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3986.09,4405.67,4195.88
+2026-02-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3946.96,4362.42,4154.69
+2026-02-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,4063.4,4491.12,4277.26
+2026-02-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,4018.45,4441.45,4229.95
+2026-02-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3912.09,4323.89,4117.99
+2026-02-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3814.34,4215.86,4015.1
+2026-02-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3882.15,4290.79,4086.47
+2026-02-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3959.47,4376.25,4167.86
+2026-02-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3854.07,4259.77,4056.92
+2026-02-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3904.58,4315.58,4110.08
+2026-02-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3803.35,4203.71,4003.53
+2026-02-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3829.67,4232.79,4031.23
+2026-02-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3894.68,4304.64,4099.66
+2026-02-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3802.11,4202.33,4002.22
+2026-02-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3895.91,4306.01,4100.96
+2026-02-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3814.12,4215.6,4014.86
+2026-02-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3744.97,4139.17,3942.07
+2026-02-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3798.07,4197.87,3997.97
+2026-02-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3740.47,4134.21,3937.34
+2026-02-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3684.57,4072.41,3878.49
+2026-02-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3590.63,3968.59,3779.61
+2026-02-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3647.14,4031.04,3839.09
+2026-02-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3567.68,3943.22,3755.45
+2026-02-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3480.14,3846.48,3663.31
+2026-02-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3404.11,3762.43,3583.27
+2026-02-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3314.8,3663.72,3489.26
+2026-02-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3394.22,3751.5,3572.86
+2026-03-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3368.61,3723.2,3545.9
+2026-03-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3385.21,3741.55,3563.38
+2026-03-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3327.46,3677.72,3502.59
+2026-03-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3324.45,3674.39,3499.42
+2026-03-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3340.26,3691.86,3516.06
+2026-03-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3328.17,3678.51,3503.34
+2026-03-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3400.79,3758.77,3579.78
+2026-03-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3432.5,3793.82,3613.16
+2026-03-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3447.88,3810.82,3629.35
+2026-03-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3403.57,3761.85,3582.71
+2026-03-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3459.11,3823.23,3641.17
+2026-03-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3401.79,3759.87,3580.83
+2026-03-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3466.82,3831.74,3649.28
+2026-03-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3377.35,3732.87,3555.11
+2026-03-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3434.3,3795.8,3615.05
+2026-03-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3381.18,3737.1,3559.14
+2026-03-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3471.07,3836.45,3653.76
+2026-03-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3434.53,3796.05,3615.29
+2026-03-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3477.92,3844.02,3660.97
+2026-03-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3508.43,3877.73,3693.08
+2026-03-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3534.47,3906.53,3720.5
+2026-03-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3555.34,3929.58,3742.46
+2026-03-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3561.14,3936.0,3748.57
+2026-03-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3618.04,3998.88,3808.46
+2026-03-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3688.98,4077.3,3883.14
+2026-03-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3789.99,4188.93,3989.46
+2026-03-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3700.09,4089.57,3894.83
+2026-03-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3759.11,4154.81,3956.96
+2026-03-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3705.63,4095.69,3900.66
+2026-03-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3617.27,3998.03,3807.65
+2026-03-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3612.33,3992.57,3802.45
+2026-04-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3704.76,4094.74,3899.75
+2026-04-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3680.91,4068.37,3874.64
+2026-04-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3769.85,4166.67,3968.26
+2026-04-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3874.38,4282.2,4078.29
+2026-04-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3928.12,4341.6,4134.86
+2026-04-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3848.66,4253.78,4051.22
+2026-04-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3924.46,4337.56,4131.01
+2026-04-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3892.37,4302.09,4097.23
+2026-04-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3780.92,4178.92,3979.92
+2026-04-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3670.07,4056.39,3863.23
+2026-04-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3590.28,3968.2,3779.24
+2026-04-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3589.11,3966.91,3778.01
+2026-04-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3545.99,3919.25,3732.62
+2026-04-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3597.76,3976.48,3787.12
+2026-04-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3639.41,4022.51,3830.96
+2026-04-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3534.74,3906.82,3720.78
+2026-04-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3436.37,3798.09,3617.23
+2026-04-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3474.82,3840.6,3657.71
+2026-04-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3461.29,3825.63,3643.46
+2026-04-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3504.84,3873.77,3689.3
+2026-04-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3600.86,3979.9,3790.38
+2026-04-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3599.2,3978.06,3788.63
+2026-04-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3659.32,4044.52,3851.92
+2026-04-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3643.49,4027.01,3835.25
+2026-04-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3625.67,4007.31,3816.49
+2026-04-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3655.69,4040.49,3848.09
+2026-04-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3600.69,3979.71,3790.2
+2026-04-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3630.2,4012.32,3821.26
+2026-04-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3575.7,3952.08,3763.89
+2026-04-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3481.57,3848.05,3664.81
+2026-05-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3521.63,3892.33,3706.98
+2026-05-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3539.61,3912.21,3725.91
+2026-05-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3541.41,3914.19,3727.8
+2026-05-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3581.21,3958.18,3769.7
+2026-05-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3474.28,3840.0,3657.14
+2026-05-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3429.16,3790.12,3609.64
+2026-05-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3378.53,3734.17,3556.35
+2026-05-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3375.47,3730.79,3553.13
+2026-05-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3286.86,3632.84,3459.85
+2026-05-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3382.41,3738.45,3560.43
+2026-05-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3296.18,3643.14,3469.66
+2026-05-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3393.69,3750.93,3572.31
+2026-05-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3371.78,3726.7,3549.24
+2026-05-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3288.97,3635.17,3462.07
+2026-05-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3362.99,3716.99,3539.99
+2026-05-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3420.76,3780.84,3600.8
+2026-05-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3495.0,3862.9,3678.95
+2026-05-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3459.94,3824.14,3642.04
+2026-05-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3412.03,3771.19,3591.61
+2026-05-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3401.57,3759.63,3580.6
+2026-05-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3494.67,3862.53,3678.6
+2026-05-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3461.36,3825.72,3643.54
+2026-05-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3445.65,3808.35,3627.0
+2026-05-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3529.33,3900.83,3715.08
+2026-05-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3520.33,3890.89,3705.61
+2026-05-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3491.15,3858.63,3674.89
+2026-05-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3524.32,3895.3,3709.81
+2026-05-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3526.19,3897.37,3711.78
+2026-05-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3476.82,3842.8,3659.81
+2026-05-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3553.77,3927.85,3740.81
+2026-05-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3614.55,3995.03,3804.79
+2026-06-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3676.43,4063.43,3869.93
+2026-06-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3771.69,4168.71,3970.2
+2026-06-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3658.62,4043.74,3851.18
+2026-06-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3766.25,4162.69,3964.47
+2026-06-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3774.24,4171.52,3972.88
+2026-06-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3717.26,4108.55,3912.9
+2026-06-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3654.1,4038.74,3846.42
+2026-06-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3756.92,4152.38,3954.65
+2026-06-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3865.6,4272.5,4069.05
+2026-06-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3915.29,4327.43,4121.36
+2026-06-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3996.53,4417.21,4206.87
+2026-06-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3978.76,4397.58,4188.17
+2026-06-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,4009.94,4432.04,4220.99
+2026-06-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,4051.09,4477.53,4264.31
+2026-06-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,4098.06,4529.44,4313.75
+2026-06-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,4020.47,4443.67,4232.07
+2026-06-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3900.3,4310.86,4105.58
+2026-06-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3954.36,4370.6,4162.48
+2026-06-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3871.68,4279.22,4075.45
+2026-06-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3860.14,4266.47,4063.3
+2026-06-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3961.18,4378.14,4169.66
+2026-06-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3925.61,4338.83,4132.22
+2026-06-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3828.24,4231.22,4029.73
+2026-06-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3891.29,4300.89,4096.09
+2026-06-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3899.35,4309.81,4104.58
+2026-06-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3800.14,4200.16,4000.15
+2026-06-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3827.9,4230.84,4029.37
+2026-06-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3885.91,4294.95,4090.43
+2026-06-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3811.11,4212.27,4011.69
+2026-06-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3730.56,4123.26,3926.91
+2026-07-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3773.1,4170.26,3971.68
+2026-07-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3671.72,4058.22,3864.97
+2026-07-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3733.97,4127.01,3930.49
+2026-07-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3709.98,4100.5,3905.24
+2026-07-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3719.31,4110.81,3915.06
+2026-07-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3620.43,4001.53,3810.98
+2026-07-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3607.38,3987.1,3797.24
+2026-07-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3704.78,4094.76,3899.77
+2026-07-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3678.68,4065.92,3872.3
+2026-07-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3604.67,3984.11,3794.39
+2026-07-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3709.99,4100.51,3905.25
+2026-07-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3773.63,4170.85,3972.24
+2026-07-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3665.1,4050.9,3858.0
+2026-07-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3577.03,3953.55,3765.29
+2026-07-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3678.32,4065.52,3871.92
+2026-07-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3631.16,4013.38,3822.27
+2026-07-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3686.81,4074.89,3880.85
+2026-07-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3692.17,4080.83,3886.5
+2026-07-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3688.43,4076.69,3882.56
+2026-07-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3624.4,4005.92,3815.16
+2026-07-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3670.22,4056.56,3863.39
+2026-07-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3620.25,4001.33,3810.79
+2026-07-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3565.05,3940.31,3752.68
+2026-07-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3487.65,3854.77,3671.21
+2026-07-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3522.11,3892.85,3707.48
+2026-07-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3440.91,3803.11,3622.01
+2026-07-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3488.51,3855.73,3672.12
+2026-07-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3416.35,3775.97,3596.16
+2026-07-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3360.41,3714.13,3537.27
+2026-07-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3444.67,3807.27,3625.97
+2026-07-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3421.28,3781.42,3601.35
+2026-08-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3495.2,3863.12,3679.16
+2026-08-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3587.56,3965.2,3776.38
+2026-08-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3637.64,4020.54,3829.09
+2026-08-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,3534.66,3906.74,3720.7
+2026-08-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,3476.92,3842.92,3659.92
+2026-08-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,3554.17,3928.29,3741.23
+2026-08-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,3590.55,3968.51,3779.53
+2026-08-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,3686.84,4074.92,3880.88
+2026-08-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,3760.19,4155.99,3958.09
+2026-08-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,3823.87,4226.39,4025.13
+2026-08-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,3780.22,4178.14,3979.18
+2026-08-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3749.01,4143.65,3946.33
+2026-08-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,3785.67,4184.17,3984.92
+2026-08-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,3767.16,4163.7,3965.43
+2026-08-15,Oddanchatram Mandi,Dindigul,Tamil Nadu,3724.27,4116.29,3920.28
+2026-08-16,Oddanchatram Mandi,Dindigul,Tamil Nadu,3795.25,4194.75,3995.0
+2026-08-17,Oddanchatram Mandi,Dindigul,Tamil Nadu,3876.55,4284.61,4080.58
+2026-08-18,Oddanchatram Mandi,Dindigul,Tamil Nadu,3862.86,4269.48,4066.17
+2026-08-19,Oddanchatram Mandi,Dindigul,Tamil Nadu,3937.76,4352.26,4145.01
+2026-08-20,Oddanchatram Mandi,Dindigul,Tamil Nadu,3822.39,4224.75,4023.57
+2026-08-21,Oddanchatram Mandi,Dindigul,Tamil Nadu,3789.0,4187.84,3988.42
+2026-08-22,Oddanchatram Mandi,Dindigul,Tamil Nadu,3786.93,4185.55,3986.24
+2026-08-23,Oddanchatram Mandi,Dindigul,Tamil Nadu,3784.03,4182.35,3983.19
+2026-08-24,Oddanchatram Mandi,Dindigul,Tamil Nadu,3717.84,4109.2,3913.52
+2026-08-25,Oddanchatram Mandi,Dindigul,Tamil Nadu,3779.11,4176.91,3978.01
+2026-08-26,Oddanchatram Mandi,Dindigul,Tamil Nadu,3689.89,4078.31,3884.1
+2026-08-27,Oddanchatram Mandi,Dindigul,Tamil Nadu,3616.15,3996.79,3806.47
+2026-08-28,Oddanchatram Mandi,Dindigul,Tamil Nadu,3684.61,4072.47,3878.54
+2026-08-29,Oddanchatram Mandi,Dindigul,Tamil Nadu,3733.39,4126.37,3929.88
+2026-08-30,Oddanchatram Mandi,Dindigul,Tamil Nadu,3823.76,4226.26,4025.01
+2026-08-31,Oddanchatram Mandi,Dindigul,Tamil Nadu,3933.12,4347.14,4140.13
+2026-09-01,Oddanchatram Mandi,Dindigul,Tamil Nadu,3953.25,4369.39,4161.32
+2026-09-02,Oddanchatram Mandi,Dindigul,Tamil Nadu,3933.04,4347.04,4140.04
+2026-09-03,Oddanchatram Mandi,Dindigul,Tamil Nadu,3955.1,4371.42,4163.26
+2026-09-04,Oddanchatram Mandi,Dindigul,Tamil Nadu,4032.05,4456.47,4244.26
+2026-09-05,Oddanchatram Mandi,Dindigul,Tamil Nadu,4021.83,4445.19,4233.51
+2026-09-06,Oddanchatram Mandi,Dindigul,Tamil Nadu,4063.72,4491.48,4277.6
+2026-09-07,Oddanchatram Mandi,Dindigul,Tamil Nadu,4169.04,4607.88,4388.46
+2026-09-08,Oddanchatram Mandi,Dindigul,Tamil Nadu,4191.35,4632.55,4411.95
+2026-09-09,Oddanchatram Mandi,Dindigul,Tamil Nadu,4203.02,4645.44,4424.23
+2026-09-10,Oddanchatram Mandi,Dindigul,Tamil Nadu,4126.56,4560.94,4343.75
+2026-09-11,Oddanchatram Mandi,Dindigul,Tamil Nadu,4026.36,4450.18,4238.27
+2026-09-12,Oddanchatram Mandi,Dindigul,Tamil Nadu,3969.3,4387.12,4178.21
+2026-09-13,Oddanchatram Mandi,Dindigul,Tamil Nadu,4040.58,4465.9,4253.24
+2026-09-14,Oddanchatram Mandi,Dindigul,Tamil Nadu,4101.05,4532.74,4316.9
